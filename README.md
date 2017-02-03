@@ -1,5 +1,5 @@
-# GDG
-[![License](https://img.shields.io/cocoapods/l/Hero.svg?style=flat)](https://raw.githubusercontent.com/Aaron-zheng/GDG/master/LICENSE)
+# GDG - Google Developer Groups
+[![License]](https://raw.githubusercontent.com/Aaron-zheng/GDG/master/LICENSE)
 ![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange.svg)
 ![Xcode 8.2+](https://img.shields.io/badge/Xcode-8.2%2B-blue.svg)
 
@@ -7,7 +7,7 @@
 
 **GDG** is a iOS App for displaying GDG events from all over the world. It provides different events from different area.
 
-### Features
+## Features
 
 1. You can choose specified GDG of your area, and get the latest events in the next few months.
 2. You can find the past events from GDG community.
@@ -23,10 +23,10 @@
 
 You can download it from Apple App store. https://itunes.apple.com/app/id1132846979
 
-### Contribute
+## Contribute
 
 I welcome any contributions. Please submit your request. 
 
-### License
+## License
 
 GDG is available under the MIT license. See the LICENSE for more information.
