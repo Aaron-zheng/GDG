@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CommunityEventViewController" customModule="GDG" customModuleProvider="target">
+            <connections>
+                <outlet property="activityIndicator" destination="dSs-tN-PjD" id="wLh-AM-cx8"/>
+                <outlet property="tableView" destination="tUb-Df-FPG" id="Wzx-sW-QoF"/>
+                <outlet property="view" destination="iN0-l3-epB" id="hPO-Lp-0wn"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="tUb-Df-FPG">
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </tableView>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="dSs-tN-PjD"/>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="dSs-tN-PjD" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="CNm-Lb-gqg"/>
+                <constraint firstAttribute="bottom" secondItem="tUb-Df-FPG" secondAttribute="bottom" id="MzV-e8-4G9"/>
+                <constraint firstAttribute="trailing" secondItem="tUb-Df-FPG" secondAttribute="trailing" id="SvZ-DB-3to"/>
+                <constraint firstItem="tUb-Df-FPG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="g9y-Ot-Qsk"/>
+                <constraint firstItem="dSs-tN-PjD" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="tSD-PU-9d8"/>
+                <constraint firstItem="tUb-Df-FPG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="zbe-i9-FA1"/>
+            </constraints>
+        </view>
+    </objects>
+</document>

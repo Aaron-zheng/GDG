@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <country>
+        <countryname>Albania</countryname>
+        <countryid>al</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113818529641468527200</chapterid><city>Tirana</city><chaptername>Tirana</chaptername><firsteventdate>2015.01.24</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Algeria</countryname>
+        <countryid>dz</countryid>
+        <number>17</number>
+        <chapters>
+            <chapter><chapterid>111309779341768878739</chapterid><city>Algiers</city><chaptername>Algiers</chaptername><firsteventdate>2011.10.01</firsteventdate></chapter>
+            <chapter><chapterid>101747368053460084109</chapterid><city>Annaba</city><chaptername>Annaba</chaptername><firsteventdate>2014.03.01</firsteventdate></chapter>
+            <chapter><chapterid>107630357199337939894</chapterid><city>Blida</city><chaptername>Blida</chaptername><firsteventdate>2013.11.02</firsteventdate></chapter>
+            <chapter><chapterid>118220926206626726295</chapterid><city>Université EL Bachir El Ibrahimi BBA</city><chaptername>Bordj</chaptername><firsteventdate>2012.09.22</firsteventdate></chapter>
+            <chapter><chapterid>104572595370222794964</chapterid><city>Boumerdes</city><chaptername>Boumerdes</chaptername><firsteventdate>2014.06.15</firsteventdate></chapter>
+            <chapter><chapterid>115722350155081068544</chapterid><city>Chlef</city><chaptername>Chlef</chaptername><firsteventdate>2012.04.17</firsteventdate></chapter>
+            <chapter><chapterid>101556765537015011111</chapterid><city>Constantine</city><chaptername>Constantine</chaptername><firsteventdate>2012.11.13</firsteventdate></chapter>
+            <chapter><chapterid>102225135349773069615</chapterid><city>Laghouat</city><chaptername>Laghouat</chaptername><firsteventdate>2013.04.19</firsteventdate></chapter>
+            <chapter><chapterid>102813830833927112023</chapterid><city>Les Rosiers</city><chaptername>Les Rosiers</chaptername><firsteventdate>2016.03.18</firsteventdate></chapter>
+            <chapter><chapterid>113960839530683629161</chapterid><city>Mascara</city><chaptername>Mascara</chaptername><firsteventdate>2015.10.03</firsteventdate></chapter>
+            <chapter><chapterid>104040884350824481430</chapterid><city>Mila</city><chaptername>Mila</chaptername><firsteventdate>2014.03.23</firsteventdate></chapter>
+            <chapter><chapterid>106193270386598997065</chapterid><city>Mostaganem</city><chaptername>Mostaganem</chaptername><firsteventdate>2016.04.09</firsteventdate></chapter>
+            <chapter><chapterid>114570650781582666694</chapterid><city>Oran</city><chaptername>Oran</chaptername><firsteventdate>2014.01.09</firsteventdate></chapter>
+            <chapter><chapterid>101839818254129651251</chapterid><city>Sidi Bel Abbes</city><chaptername>SBA</chaptername><firsteventdate>2016.03.10</firsteventdate></chapter>
+            <chapter><chapterid>102526756749031062154</chapterid><city>Setif</city><chaptername>Setif</chaptername><firsteventdate>2014.03.24</firsteventdate></chapter>
+            <chapter><chapterid>114922920527535447518</chapterid><city>Tlemcen</city><chaptername>Tlemcen</chaptername><firsteventdate>2014.01.11</firsteventdate></chapter>
+            <chapter><chapterid>115410600299172138185</chapterid><city>El Oued</city><chaptername>WadSouf</chaptername><firsteventdate>2016.02.25</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Argentina</countryname>
+        <countryid>ar</countryid>
+        <number>12</number>
+        <chapters>
+            <chapter><chapterid>105683961210744335830</chapterid><city>Bahia Blanca,Buenos Aires</city><chaptername>Bahia</chaptername><firsteventdate>2011.11.04</firsteventdate></chapter>
+            <chapter><chapterid>101861051374826910556</chapterid><city>Buenos Aires</city><chaptername>Buenos Aires</chaptername><firsteventdate>2010.11.09</firsteventdate></chapter>
+            <chapter><chapterid>115109757247453512398</chapterid><city>Cordoba</city><chaptername>Cordoba</chaptername><firsteventdate>2011.11.25</firsteventdate></chapter>
+            <chapter><chapterid>104405726609930425699</chapterid><city>Corrientes</city><chaptername>Corrientes</chaptername><firsteventdate>2010.11.27</firsteventdate></chapter>
+            <chapter><chapterid>106664753257675974749</chapterid><city>Concepcion del Uruguay</city><chaptername>Entre Rios</chaptername><firsteventdate>2013.08.29</firsteventdate></chapter>
+            <chapter><chapterid>104949410023587817760</chapterid><city>La Plata</city><chaptername>La Plata</chaptername><firsteventdate>2010.10.13</firsteventdate></chapter>
+            <chapter><chapterid>102188429092915191370</chapterid><city>Mendoza</city><chaptername>Mendoza</chaptername><firsteventdate>2012.02.11</firsteventdate></chapter>
+            <chapter><chapterid>113670559358792769227</chapterid><city>Neuquen</city><chaptername>Neuquén</chaptername><firsteventdate>2016.04.21</firsteventdate></chapter>
+            <chapter><chapterid>117464596269458963925</chapterid><city>Buenos Aires</city><chaptername>Rio de la Plata</chaptername><firsteventdate>2016.03.12</firsteventdate></chapter>
+            <chapter><chapterid>101686488333081289329</chapterid><city>Rosario</city><chaptername>Rosario</chaptername><firsteventdate>2010.12.17</firsteventdate></chapter>
+            <chapter><chapterid>100519988525586970866</chapterid><city>Salta</city><chaptername>Salta</chaptername><firsteventdate>2016.04.12</firsteventdate></chapter>
+            <chapter><chapterid>115366164260856302313</chapterid><city>Santa Fe</city><chaptername>Santa Fe</chaptername><firsteventdate>2010.10.09</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Armenia</countryname>
+        <countryid>am</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>100661890326950838722</chapterid><city>Yerevan</city><chaptername>Yerevan</chaptername><firsteventdate>2011.02.12</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Australia</countryname>
+        <countryid>au</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>114779130953129614383</chapterid><city>Brisbane</city><chaptername>Brisbane</chaptername><firsteventdate>2014.01.21</firsteventdate></chapter>
+            <chapter><chapterid>116968213445069984835</chapterid><city>Melbourne</city><chaptername>Melbourne</chaptername><firsteventdate>2015.06.24</firsteventdate></chapter>
+            <chapter><chapterid>107322171137758703849</chapterid><city>Sydney</city><chaptername>Sydney</chaptername><firsteventdate>2010.02.17</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Austria</countryname>
+        <countryid>at</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>114401474180682670911</chapterid><city>Vienna</city><chaptername>Vienna</chaptername><firsteventdate>2011.02.12</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Bahrain</countryname>
+        <countryid>bh</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>101800313388715631512</chapterid><city>Arad</city><chaptername>Bahrain</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Bangladesh</countryname>
+        <countryid>bd</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>100573115036979548264</chapterid><city>Dhaka</city><chaptername>Bangla</chaptername><firsteventdate>2015.02.24</firsteventdate></chapter>
+            <chapter><chapterid>105616021694889364243</chapterid><city>Dhaka</city><chaptername>Dhaka</chaptername><firsteventdate>2011.10.31</firsteventdate></chapter>
+            <chapter><chapterid>107531599295906039081</chapterid><city>Dhaka</city><chaptername>Sonargaon</chaptername><firsteventdate>2014.05.03</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Belarus</countryname>
+        <countryid>by</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113201184286137496581</chapterid><city>Minsk</city><chaptername>Minsk</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Belgium</countryname>
+        <countryid>be</countryid>
+        <number>4</number>
+        <chapters>
+            <chapter><chapterid>105068877693379070381</chapterid><city>Brussels</city><chaptername>Brussels</chaptername><firsteventdate>2009.12.13</firsteventdate></chapter>
+            <chapter><chapterid>111664147474092293200</chapterid><city>Brussels</city><chaptername>Cloud Belgium</chaptername><firsteventdate>2016.02.18</firsteventdate></chapter>
+            <chapter><chapterid>104804677303572987610</chapterid><city>Liege</city><chaptername>Liège</chaptername><firsteventdate>2016.06.24</firsteventdate></chapter>
+            <chapter><chapterid>110401625095190962164</chapterid><city>Namur</city><chaptername>Namur Android</chaptername><firsteventdate>2016.02.09</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Benin</countryname>
+        <countryid>bj</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>117169904420798022655</chapterid><city>Abomey-Calavi</city><chaptername>Abomey-Calavi</chaptername><firsteventdate>2015.01.31</firsteventdate></chapter>
+            <chapter><chapterid>105578818425187639982</chapterid><city>Cotonou</city><chaptername>Cotonou</chaptername><firsteventdate>2013.11.02</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Bolivia</countryname>
+        <countryid>bo</countryid>
+        <number>4</number>
+        <chapters>
+            <chapter><chapterid>107589533385257090652</chapterid><city>Cochabamba</city><chaptername>Cochabamba</chaptername><firsteventdate>2012.06.23</firsteventdate></chapter>
+            <chapter><chapterid>112806249393123340567</chapterid><city>La Paz</city><chaptername>La Paz</chaptername><firsteventdate>2012.10.24</firsteventdate></chapter>
+            <chapter><chapterid>101511445502800278571</chapterid><city>Santa Cruz</city><chaptername>Santa Cruz</chaptername><firsteventdate>2015.09.12</firsteventdate></chapter>
+            <chapter><chapterid>102476913923670580064</chapterid><city>Tarija</city><chaptername>Tarija</chaptername><firsteventdate>2016.02.23</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Botswana</countryname>
+        <countryid>bw</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>112501264740608560290</chapterid><city>Francistown</city><chaptername>Francistown</chaptername><firsteventdate>2014.09.09</firsteventdate></chapter>
+            <chapter><chapterid>107749237465785539095</chapterid><city>Gaborone</city><chaptername>Gaborone</chaptername><firsteventdate>2015.03.31</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Brazil</countryname>
+        <countryid>br</countryid>
+        <number>69</number>
+        <chapters>
+            <chapter><chapterid>108193462895935017410</chapterid><city>ABC Paulista</city><chaptername>ABC</chaptername><firsteventdate>2014.06.10</firsteventdate></chapter>
+            <chapter><chapterid>111449571841038682024</chapterid><city>Alto Tiete</city><chaptername>Alto Tiête</chaptername><firsteventdate>2014.09.04</firsteventdate></chapter>
+            <chapter><chapterid>117712497785310292400</chapterid><city>Aracaju</city><chaptername>Aracaju</chaptername><firsteventdate>2013.11.23</firsteventdate></chapter>
+            <chapter><chapterid>100517144772812557896</chapterid><city>Belo Horizonte</city><chaptername>Belo Horizonte</chaptername><firsteventdate>2010.09.21</firsteventdate></chapter>
+            <chapter><chapterid>104454903082510408559</chapterid><city>Belém</city><chaptername>Belém</chaptername><firsteventdate>2014.07.09</firsteventdate></chapter>
+            <chapter><chapterid>117615665523017088181</chapterid><city>Blumenau</city><chaptername>Blumenau</chaptername><firsteventdate>2013.01.28</firsteventdate></chapter>
+            <chapter><chapterid>101378728126520052592</chapterid><city>Brasilia</city><chaptername>Brasília</chaptername><firsteventdate>2013.09.10</firsteventdate></chapter>
+            <chapter><chapterid>102623366266783283046</chapterid><city>Brusque</city><chaptername>Brusque</chaptername><firsteventdate>2015.11.21</firsteventdate></chapter>
+            <chapter><chapterid>105023565905222130746</chapterid><city>Cabreuva</city><chaptername>Cabreúva</chaptername><firsteventdate>2015.10.24</firsteventdate></chapter>
+            <chapter><chapterid>118256608408295719372</chapterid><city>Campina Grande</city><chaptername>Campina Grande</chaptername><firsteventdate>2016.04.02</firsteventdate></chapter>
+            <chapter><chapterid>104323881166104132817</chapterid><city>Campinas</city><chaptername>Campinas</chaptername><firsteventdate>2013.01.09</firsteventdate></chapter>
+            <chapter><chapterid>116383758439355750154</chapterid><city>Campo Grande</city><chaptername>Campo Grande</chaptername><firsteventdate>2014.09.24</firsteventdate></chapter>
+            <chapter><chapterid>117287106108051960984</chapterid><city>São João Del Rei</city><chaptername>Campo das Vertentes</chaptername><firsteventdate>2015.03.14</firsteventdate></chapter>
+            <chapter><chapterid>116558875734605132973</chapterid><city>Cuiabá</city><chaptername>Cuiabá</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>110842096565516849829</chapterid><city>Curitiba</city><chaptername>Curitiba</chaptername><firsteventdate>2014.07.26</firsteventdate></chapter>
+            <chapter><chapterid>115744813929442865120</chapterid><city>Dois Vizinhos</city><chaptername>Dois Vizinhos</chaptername><firsteventdate>2015.05.22</firsteventdate></chapter>
+            <chapter><chapterid>114684774037479279638</chapterid><city>Duque de Caxias</city><chaptername>Duque de Caxias</chaptername><firsteventdate>2016.03.12</firsteventdate></chapter>
+            <chapter><chapterid>101301229214170008465</chapterid><city>Feira de Santana</city><chaptername>Feira de Santana</chaptername><firsteventdate>2015.08.08</firsteventdate></chapter>
+            <chapter><chapterid>109245804055148797587</chapterid><city>Florianópolis</city><chaptername>Floripa</chaptername><firsteventdate>2014.05.16</firsteventdate></chapter>
+            <chapter><chapterid>116566149088641717001</chapterid><city>Fortaleza</city><chaptername>Fortaleza</chaptername><firsteventdate>2014.08.12</firsteventdate></chapter>
+            <chapter><chapterid>104317116210687480523</chapterid><city>Foz do Iguacu</city><chaptername>Foz do Iguaçu</chaptername><firsteventdate>2015.10.02</firsteventdate></chapter>
+            <chapter><chapterid>102178819169878551962</chapterid><city>Francisco Beltrao</city><chaptername>Francisco Beltrão</chaptername><firsteventdate>2015.04.25</firsteventdate></chapter>
+            <chapter><chapterid>101656961875456760536</chapterid><city>Campo Grande</city><chaptername>GameDev</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>113297226237632387507</chapterid><city>Goiania</city><chaptername>Goiânia</chaptername><firsteventdate>2011.07.02</firsteventdate></chapter>
+            <chapter><chapterid>108335687499866268697</chapterid><city>Grande Vitoria</city><chaptername>Grande Vitória</chaptername><firsteventdate>2014.08.16</firsteventdate></chapter>
+            <chapter><chapterid>101880335659352193976</chapterid><city>Imperatriz</city><chaptername>Imperatriz</chaptername><firsteventdate>2014.09.19</firsteventdate></chapter>
+            <chapter><chapterid>118084786959731323488</chapterid><city>Itajaí</city><chaptername>Itajaí</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>114452938823036356581</chapterid><city>Itajubá</city><chaptername>Itajubá</chaptername><firsteventdate>2014.11.01</firsteventdate></chapter>
+            <chapter><chapterid>107031327338791865684</chapterid><city>Itumbiara</city><chaptername>Itumbiara</chaptername><firsteventdate>2016.04.02</firsteventdate></chapter>
+            <chapter><chapterid>114767068998939804773</chapterid><city>Jaragua do Sul</city><chaptername>Jaraguá do Sul</chaptername><firsteventdate>2014.05.31</firsteventdate></chapter>
+            <chapter><chapterid>110713691557973376450</chapterid><city>Jatai</city><chaptername>Jataí</chaptername><firsteventdate>2016.06.04</firsteventdate></chapter>
+            <chapter><chapterid>107166165426891613168</chapterid><city>Joao Pessoa</city><chaptername>João Pessoa</chaptername><firsteventdate>2013.07.18</firsteventdate></chapter>
+            <chapter><chapterid>115587419388490579572</chapterid><city>Juazeiro do Norte</city><chaptername>Juazeiro do Norte</chaptername><firsteventdate>2015.04.16</firsteventdate></chapter>
+            <chapter><chapterid>101567513255448590336</chapterid><city>Juiz de Fora</city><chaptername>Juiz de Fora</chaptername><firsteventdate>2014.06.09</firsteventdate></chapter>
+            <chapter><chapterid>110554492619599994308</chapterid><city>Lavras</city><chaptername>Lavras</chaptername><firsteventdate>2015.10.21</firsteventdate></chapter>
+            <chapter><chapterid>108321397732595544262</chapterid><city>Londrina</city><chaptername>Londrina</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>105591078626334574818</chapterid><city>Maceio</city><chaptername>Maceió</chaptername><firsteventdate>2014.08.09</firsteventdate></chapter>
+            <chapter><chapterid>106902919091030560197</chapterid><city>Manaus</city><chaptername>Manaus</chaptername><firsteventdate>2014.06.05</firsteventdate></chapter>
+            <chapter><chapterid>111056898545195499932</chapterid><city>Maringa</city><chaptername>Maringá</chaptername><firsteventdate>2015.05.06</firsteventdate></chapter>
+            <chapter><chapterid>109746207324246495762</chapterid><city>Montes Claros</city><chaptername>Montes Claros</chaptername><firsteventdate>2016.07.08</firsteventdate></chapter>
+            <chapter><chapterid>104733932522712794354</chapterid><city>Frederico Westphalen</city><chaptername>Médio Alto Uruguai</chaptername><firsteventdate>2015.05.23</firsteventdate></chapter>
+            <chapter><chapterid>111142392900301029730</chapterid><city>Natal</city><chaptername>Natal</chaptername><firsteventdate>2013.04.06</firsteventdate></chapter>
+            <chapter><chapterid>101364451245043454367</chapterid><city>Norte RS</city><chaptername>Norte RS</chaptername><firsteventdate>2013.04.15</firsteventdate></chapter>
+            <chapter><chapterid>102225587298667425761</chapterid><city>Palmas</city><chaptername>Palmas</chaptername><firsteventdate>2014.06.14</firsteventdate></chapter>
+            <chapter><chapterid>106959989726351085766</chapterid><city>Pato Branco</city><chaptername>Pato Branco</chaptername><firsteventdate>2015.05.14</firsteventdate></chapter>
+            <chapter><chapterid>106854837866027436065</chapterid><city>Paulo de Frontin</city><chaptername>Paulo de Frontin</chaptername><firsteventdate>2016.03.12</firsteventdate></chapter>
+            <chapter><chapterid>109249422253898056762</chapterid><city>Pelotas</city><chaptername>Pelotas</chaptername><firsteventdate>2015.01.27</firsteventdate></chapter>
+            <chapter><chapterid>115208153258516101187</chapterid><city>Porto Alegre</city><chaptername>Porto Alegre</chaptername><firsteventdate>2013.09.25</firsteventdate></chapter>
+            <chapter><chapterid>108981164595843549376</chapterid><city>Pocos de Caldas</city><chaptername>Poços de Caldas</chaptername><firsteventdate>2015.10.19</firsteventdate></chapter>
+            <chapter><chapterid>107427206571717582029</chapterid><city>Recife</city><chaptername>Recife</chaptername><firsteventdate>2014.06.11</firsteventdate></chapter>
+            <chapter><chapterid>112994739261133127969</chapterid><city>Resende</city><chaptername>Resende</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>113457248411173415341</chapterid><city>Ribeirao Preto</city><chaptername>Ribeirão Preto</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>109525188249549151749</chapterid><city>Rio Verde</city><chaptername>Rio Verde</chaptername><firsteventdate>2016.01.30</firsteventdate></chapter>
+            <chapter><chapterid>104464728601797437216</chapterid><city>Rio de Janeiro</city><chaptername>Rio de Janeiro</chaptername><firsteventdate>2014.05.29</firsteventdate></chapter>
+            <chapter><chapterid>109551746919819088573</chapterid><city>Salvador</city><chaptername>Salvador</chaptername><firsteventdate>2013.03.09</firsteventdate></chapter>
+            <chapter><chapterid>102698524984620076019</chapterid><city>Senador Canedo</city><chaptername>Senador Canedo</chaptername><firsteventdate>2015.10.24</firsteventdate></chapter>
+            <chapter><chapterid>113855774434357118364</chapterid><city>Serra Gaucha</city><chaptername>Serra Gaúcha</chaptername><firsteventdate>2014.08.23</firsteventdate></chapter>
+            <chapter><chapterid>115753266803068111547</chapterid><city>Sorocaba</city><chaptername>Sorocaba</chaptername><firsteventdate>2014.08.02</firsteventdate></chapter>
+            <chapter><chapterid>102014886202826171598</chapterid><city>Volta Redonda</city><chaptername>Sul Fluminense</chaptername><firsteventdate>2015.08.16</firsteventdate></chapter>
+            <chapter><chapterid>107789369907083530148</chapterid><city>São José do Rio Preto</city><chaptername>São José do Rio Preto</chaptername><firsteventdate>2014.10.27</firsteventdate></chapter>
+            <chapter><chapterid>101608536954779000237</chapterid><city>Sao Jose dos Campos</city><chaptername>São José dos Campos</chaptername><firsteventdate>2015.09.19</firsteventdate></chapter>
+            <chapter><chapterid>112512874261684533435</chapterid><city>Sao Joao da Boa Vista</city><chaptername>São João da Boa Vista</chaptername><firsteventdate>2015.03.24</firsteventdate></chapter>
+            <chapter><chapterid>110989914818554163164</chapterid><city>Sao Luis</city><chaptername>São Luis</chaptername><firsteventdate>2014.07.10</firsteventdate></chapter>
+            <chapter><chapterid>102774871279745079139</chapterid><city>Sao Paulo</city><chaptername>São Paulo</chaptername><firsteventdate>2010.03.03</firsteventdate></chapter>
+            <chapter><chapterid>114115100029148732441</chapterid><city>Tres Rios</city><chaptername>Três Rios</chaptername><firsteventdate>2015.02.28</firsteventdate></chapter>
+            <chapter><chapterid>105370317595680214151</chapterid><city>Uberaba</city><chaptername>Uberaba</chaptername><firsteventdate>2015.08.12</firsteventdate></chapter>
+            <chapter><chapterid>110877229864977650133</chapterid><city>Uberlandia</city><chaptername>Uberlândia</chaptername><firsteventdate>2016.04.19</firsteventdate></chapter>
+            <chapter><chapterid>116448700234030233197</chapterid><city>Vale do Paraiba</city><chaptername>Vale do Paraíba</chaptername><firsteventdate>2014.06.21</firsteventdate></chapter>
+            <chapter><chapterid>103394540206445613202</chapterid><city>Vassouras</city><chaptername>Vassouras</chaptername><firsteventdate>2015.05.30</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Brunei Darussalam</countryname>
+        <countryid>bn</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105666592364623935060</chapterid><city>Bandar Seri Begawan</city><chaptername>Brunei</chaptername><firsteventdate>2010.04.07</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Bulgaria</countryname>
+        <countryid>bg</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>103744570226888926347</chapterid><city>Sofia</city><chaptername>Sofia</chaptername><firsteventdate>2013.04.11</firsteventdate></chapter>
+            <chapter><chapterid>106721642806244440677</chapterid><city>Varna</city><chaptername>Varna</chaptername><firsteventdate>2014.10.08</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Burkina Faso</countryname>
+        <countryid>bf</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>101369019264322727362</chapterid><city>Ouagadougou</city><chaptername>Ouaga</chaptername><firsteventdate>2011.12.02</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Cambodia</countryname>
+        <countryid>kh</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>112613035129643336757</chapterid><city>Phnom Penh</city><chaptername>Phnom Penh</chaptername><firsteventdate>2011.10.22</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Cameroon</countryname>
+        <countryid>cm</countryid>
+        <number>14</number>
+        <chapters>
+            <chapter><chapterid>107808872714183981985</chapterid><city>Bambili</city><chaptername>Bambili</chaptername><firsteventdate>2014.12.17</firsteventdate></chapter>
+            <chapter><chapterid>102744942792583044503</chapterid><city>Bamenda</city><chaptername>Bamenda</chaptername><firsteventdate>2013.11.02</firsteventdate></chapter>
+            <chapter><chapterid>106974122958849086430</chapterid><city>Bandjoun</city><chaptername>Bandjoun</chaptername><firsteventdate>2014.01.31</firsteventdate></chapter>
+            <chapter><chapterid>100229901424981095401</chapterid><city>Bangangte</city><chaptername>Bangangté</chaptername><firsteventdate>2014.07.05</firsteventdate></chapter>
+            <chapter><chapterid>100289274059280359416</chapterid><city>Buea</city><chaptername>Buea</chaptername><firsteventdate>2013.11.03</firsteventdate></chapter>
+            <chapter><chapterid>106759185500664250739</chapterid><city>Douala</city><chaptername>Douala</chaptername><firsteventdate>2012.05.12</firsteventdate></chapter>
+            <chapter><chapterid>101390700541925663340</chapterid><city>Dschang</city><chaptername>Dschang</chaptername><firsteventdate>2013.05.17</firsteventdate></chapter>
+            <chapter><chapterid>111178393301647569325</chapterid><city>Ebolowa</city><chaptername>Ebolowa</chaptername><firsteventdate>2014.06.30</firsteventdate></chapter>
+            <chapter><chapterid>101655900172336891178</chapterid><city>Foumban</city><chaptername>Foumban</chaptername><firsteventdate>2014.06.28</firsteventdate></chapter>
+            <chapter><chapterid>101890687253513510824</chapterid><city>Limbe</city><chaptername>Limbe</chaptername><firsteventdate>2014.11.28</firsteventdate></chapter>
+            <chapter><chapterid>110116525587398034065</chapterid><city>Maroua</city><chaptername>Maroua</chaptername><firsteventdate>2014.12.17</firsteventdate></chapter>
+            <chapter><chapterid>107754356908783968376</chapterid><city>Ngaoundere</city><chaptername>Ndéré</chaptername><firsteventdate>2014.02.08</firsteventdate></chapter>
+            <chapter><chapterid>102468739794535756573</chapterid><city>Nkongsamba</city><chaptername>Nkongsamba</chaptername><firsteventdate>2014.12.10</firsteventdate></chapter>
+            <chapter><chapterid>105969240777402167848</chapterid><city>Yaounde</city><chaptername>Yaoundé</chaptername><firsteventdate>2012.10.27</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Canada</countryname>
+        <countryid>ca</countryid>
+        <number>7</number>
+        <chapters>
+            <chapter><chapterid>103009143640998421782</chapterid><city>Calgary</city><chaptername>Calgary</chaptername><firsteventdate>2013.12.07</firsteventdate></chapter>
+            <chapter><chapterid>110580464422964848613</chapterid><city>Montreal</city><chaptername>Montreal</chaptername><firsteventdate>2011.04.07</firsteventdate></chapter>
+            <chapter><chapterid>109736270049664372028</chapterid><city>Montreal</city><chaptername>Montreal Android</chaptername><firsteventdate>2013.07.31</firsteventdate></chapter>
+            <chapter><chapterid>115803993493374365281</chapterid><city>Sudbury</city><chaptername>Sudbury</chaptername><firsteventdate>2012.11.16</firsteventdate></chapter>
+            <chapter><chapterid>101500591883570718544</chapterid><city>Toronto</city><chaptername>Toronto</chaptername><firsteventdate>2010.03.08</firsteventdate></chapter>
+            <chapter><chapterid>103506027304503041403</chapterid><city>Vancouver</city><chaptername>Vancouver</chaptername><firsteventdate>2013.08.13</firsteventdate></chapter>
+            <chapter><chapterid>103256143346904935564</chapterid><city>Waterloo</city><chaptername>Waterloo</chaptername><firsteventdate>2013.11.18</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Chad</countryname>
+        <countryid>td</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>103688677652432925054</chapterid><city>N'Djamena</city><chaptername>N'Djamena</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Chile</countryname>
+        <countryid>cl</countryid>
+        <number>5</number>
+        <chapters>
+            <chapter><chapterid>114454255979774321228</chapterid><city>Santiago</city><chaptername>Android Santiago</chaptername><firsteventdate>2016.04.12</firsteventdate></chapter>
+            <chapter><chapterid>107585565628124978847</chapterid><city>Antofagasta</city><chaptername>Antofagasta</chaptername><firsteventdate>2013.01.18</firsteventdate></chapter>
+            <chapter><chapterid>109569816949405711435</chapterid><city>Santiago de chile</city><chaptername>Santiago</chaptername><firsteventdate>2015.04.06</firsteventdate></chapter>
+            <chapter><chapterid>108337130345722166552</chapterid><city>Valparaiso</city><chaptername>Valparaiso</chaptername><firsteventdate>2016.03.23</firsteventdate></chapter>
+            <chapter><chapterid>107486768143612039438</chapterid><city>Concepcion</city><chaptername>concepción</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>China</countryname>
+        <countryid>cn</countryid>
+        <number>23</number>
+        <chapters>
+            <chapter><chapterid>114116331730392650768</chapterid><city>Beijing</city><chaptername>Beijing</chaptername><firsteventdate>2010.08.31</firsteventdate></chapter>
+            <chapter><chapterid>113950781238708166268</chapterid><city>Changji</city><chaptername>Changji</chaptername><firsteventdate>2015.10.31</firsteventdate></chapter>
+            <chapter><chapterid>115508453153648032576</chapterid><city>Chengdu</city><chaptername>Chengdu</chaptername><firsteventdate>2014.05.10</firsteventdate></chapter>
+            <chapter><chapterid>101458543060997187108</chapterid><city>Fuzhou</city><chaptername>Fuzhou</chaptername><firsteventdate>2015.04.25</firsteventdate></chapter>
+            <chapter><chapterid>108478500514805900911</chapterid><city>Ganzhou</city><chaptername>Ganzhou</chaptername><firsteventdate>2014.12.05</firsteventdate></chapter>
+            <chapter><chapterid>114920001331857622210</chapterid><city>Guangzhou</city><chaptername>Guangzhou</chaptername><firsteventdate>2009.12.05</firsteventdate></chapter>
+            <chapter><chapterid>107736551552874801480</chapterid><city>Hangzhou</city><chaptername>Hangzhou</chaptername><firsteventdate>2009.11.22</firsteventdate></chapter>
+            <chapter><chapterid>114665061922064488837</chapterid><city>HEFEI</city><chaptername>Hefei</chaptername><firsteventdate>2012.03.17</firsteventdate></chapter>
+            <chapter><chapterid>101989816978489369807</chapterid><city>Hong Kong</city><chaptername>Hong Kong</chaptername><firsteventdate>2010.03.05</firsteventdate></chapter>
+            <chapter><chapterid>107219447444236191734</chapterid><city>Lanzhou</city><chaptername>Lanzhou</chaptername><firsteventdate>2012.06.03</firsteventdate></chapter>
+            <chapter><chapterid>114126261414805241249</chapterid><city>Nanyang</city><chaptername>NanYang</chaptername><firsteventdate>2011.03.19</firsteventdate></chapter>
+            <chapter><chapterid>115699391295509082719</chapterid><city>Nanjing</city><chaptername>Nanjing</chaptername><firsteventdate>2012.04.21</firsteventdate></chapter>
+            <chapter><chapterid>100700053362796704384</chapterid><city>Nanning</city><chaptername>Nanning</chaptername><firsteventdate>2016.03.20</firsteventdate></chapter>
+            <chapter><chapterid>113435072768494915958</chapterid><city>Shanghai</city><chaptername>Shanghai</chaptername><firsteventdate>2009.10.17</firsteventdate></chapter>
+            <chapter><chapterid>116409718883299342983</chapterid><city>Shenzhen</city><chaptername>Shenzhen</chaptername><firsteventdate>2010.11.20</firsteventdate></chapter>
+            <chapter><chapterid>100160462017014431473</chapterid><city>Suzhou</city><chaptername>Suzhou</chaptername><firsteventdate>2013.12.08</firsteventdate></chapter>
+            <chapter><chapterid>105969102740437964990</chapterid><city>Tianjin</city><chaptername>Tianjin</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>113990579362109292040</chapterid><city>Urumqi</city><chaptername>Urumqi</chaptername><firsteventdate>2013.06.29</firsteventdate></chapter>
+            <chapter><chapterid>114935565019424673192</chapterid><city>Xi'an</city><chaptername>Xi'an</chaptername><firsteventdate>2009.09.18</firsteventdate></chapter>
+            <chapter><chapterid>110967416369300099369</chapterid><city>Xiamen</city><chaptername>Xiamen</chaptername><firsteventdate>2013.04.13</firsteventdate></chapter>
+            <chapter><chapterid>114911793225988198469</chapterid><city>Zhangjiakou</city><chaptername>Zhangjiakou</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+            <chapter><chapterid>107301871993224629566</chapterid><city>Zhengzhou</city><chaptername>Zhengzhou</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>113382777332300419074</chapterid><city>Zhuhai</city><chaptername>Zhuhai</chaptername><firsteventdate>2013.03.30</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Colombia</countryname>
+        <countryid>co</countryid>
+        <number>5</number>
+        <chapters>
+            <chapter><chapterid>105317872802986145679</chapterid><city>Bogota</city><chaptername>Bogotá</chaptername><firsteventdate>2009.07.02</firsteventdate></chapter>
+            <chapter><chapterid>116013170454442490368</chapterid><city>Cali</city><chaptername>Cali</chaptername><firsteventdate>2014.09.20</firsteventdate></chapter>
+            <chapter><chapterid>117663082548222516158</chapterid><city>Medellin</city><chaptername>Medellín</chaptername><firsteventdate>2015.05.07</firsteventdate></chapter>
+            <chapter><chapterid>113306632199215309356</chapterid><city>Armenia</city><chaptername>Quindio</chaptername><firsteventdate>2013.11.09</firsteventdate></chapter>
+            <chapter><chapterid>100780255782986466579</chapterid><city>Bogota</city><chaptername>UN</chaptername><firsteventdate>2013.05.10</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Congo</countryname>
+        <countryid>cg</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105510963781828713235</chapterid><city>Brazzaville</city><chaptername>Brazza</chaptername><firsteventdate>2013.05.11</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Congo, DRC</countryname>
+        <countryid>cd</countryid>
+        <number>5</number>
+        <chapters>
+            <chapter><chapterid>105262014217631748015</chapterid><city>Bukavu</city><chaptername>Bukavu</chaptername><firsteventdate>2014.02.22</firsteventdate></chapter>
+            <chapter><chapterid>104230377423943333420</chapterid><city>Goma</city><chaptername>Goma</chaptername><firsteventdate>2012.02.18</firsteventdate></chapter>
+            <chapter><chapterid>108627459914727122844</chapterid><city>Kinshasa</city><chaptername>Kinshasa</chaptername><firsteventdate>2011.09.24</firsteventdate></chapter>
+            <chapter><chapterid>112156910952138034910</chapterid><city>Kisantu</city><chaptername>Kisantu</chaptername><firsteventdate>2013.04.20</firsteventdate></chapter>
+            <chapter><chapterid>104203731941109249273</chapterid><city>Lubumbashi</city><chaptername>Lubum</chaptername><firsteventdate>2013.03.30</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Costa Rica</countryname>
+        <countryid>cr</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>107130781772321810497</chapterid><city>San Jose</city><chaptername>Pura Vida</chaptername><firsteventdate>2015.07.25</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Cote d'Ivoire</countryname>
+        <countryid>ci</countryid>
+        <number>7</number>
+        <chapters>
+            <chapter><chapterid>113606713694474914582</chapterid><city>Abidjan</city><chaptername>Abidjan</chaptername><firsteventdate>2012.03.07</firsteventdate></chapter>
+            <chapter><chapterid>101872998859027833640</chapterid><city>Abidjan</city><chaptername>Agitel</chaptername><firsteventdate>2014.09.06</firsteventdate></chapter>
+            <chapter><chapterid>109314849815527267619</chapterid><city>Bassam</city><chaptername>Bassam</chaptername><firsteventdate>2013.09.07</firsteventdate></chapter>
+            <chapter><chapterid>113734149142149089982</chapterid><city>Bouake</city><chaptername>Bouaké</chaptername><firsteventdate>2013.08.15</firsteventdate></chapter>
+            <chapter><chapterid>107477192157293930542</chapterid><city>Yamoussoukro</city><chaptername>INPHB</chaptername><firsteventdate>2013.06.08</firsteventdate></chapter>
+            <chapter><chapterid>108584747374575633076</chapterid><city>Abidjan</city><chaptername>Miage Gi Cocody</chaptername><firsteventdate>2012.12.29</firsteventdate></chapter>
+            <chapter><chapterid>118223038911854465408</chapterid><city>Yamoussoukro</city><chaptername>Yamoussoukro</chaptername><firsteventdate>2014.11.29</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Czech Republic</countryname>
+        <countryid>cz</countryid>
+        <number>10</number>
+        <chapters>
+            <chapter><chapterid>107527312296247581699</chapterid><city>Brno</city><chaptername>Brno</chaptername><firsteventdate>2013.06.20</firsteventdate></chapter>
+            <chapter><chapterid>102328084522799197922</chapterid><city>Hradec Králové</city><chaptername>Hradec Králové</chaptername><firsteventdate>2013.04.16</firsteventdate></chapter>
+            <chapter><chapterid>114298804346759031330</chapterid><city>Jihlava</city><chaptername>Jihlava</chaptername><firsteventdate>2013.10.23</firsteventdate></chapter>
+            <chapter><chapterid>112974753556160699070</chapterid><city>Olomouc</city><chaptername>Olomouc</chaptername><firsteventdate>2014.05.06</firsteventdate></chapter>
+            <chapter><chapterid>112342577449557575881</chapterid><city>Ostrava</city><chaptername>Ostrava</chaptername><firsteventdate>2015.01.28</firsteventdate></chapter>
+            <chapter><chapterid>102347293314420788085</chapterid><city>Pardubice</city><chaptername>Pardubice</chaptername><firsteventdate>2013.02.25</firsteventdate></chapter>
+            <chapter><chapterid>111850911527969001859</chapterid><city>Plzen</city><chaptername>Plzeň</chaptername><firsteventdate>2014.09.05</firsteventdate></chapter>
+            <chapter><chapterid>111919016509847766513</chapterid><city>Prague</city><chaptername>Prague</chaptername><firsteventdate>2012.02.18</firsteventdate></chapter>
+            <chapter><chapterid>117819266709320995508</chapterid><city>Prague</city><chaptername>ČVUT Prague</chaptername><firsteventdate>2012.02.13</firsteventdate></chapter>
+            <chapter><chapterid>102250748568826837974</chapterid><city>Zdar nad Sazavou</city><chaptername>Žďár nad Sázavou</chaptername><firsteventdate>2014.10.17</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Denmark</countryname>
+        <countryid>dk</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>116456904479291076991</chapterid><city>Aarhus</city><chaptername>Aarhus</chaptername><firsteventdate>2014.03.10</firsteventdate></chapter>
+            <chapter><chapterid>113724797202166933848</chapterid><city>Copenhagen</city><chaptername>Copenhagen</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Dominican Republic</countryname>
+        <countryid>do</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>101585293573808603734</chapterid><city>Santo Domingo</city><chaptername>Santo Domingo</chaptername><firsteventdate>2013.03.18</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Ecuador</countryname>
+        <countryid>ec</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>108731583462185672389</chapterid><city>Jipijapa</city><chaptername>Manabí</chaptername><firsteventdate>2016.05.26</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Egypt</countryname>
+        <countryid>eg</countryid>
+        <number>13</number>
+        <chapters>
+            <chapter><chapterid>105609152381762460369</chapterid><city>6th of October City</city><chaptername>6th October</chaptername><firsteventdate>2013.03.19</firsteventdate></chapter>
+            <chapter><chapterid>103706763079402130148</chapterid><city>Alexandria</city><chaptername>Alexandria</chaptername><firsteventdate>2011.10.15</firsteventdate></chapter>
+            <chapter><chapterid>101125450398907871608</chapterid><city>Assiut</city><chaptername>Assiut</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103937762129552579908</chapterid><city>Cairo</city><chaptername>Cairo</chaptername><firsteventdate>2010.06.10</firsteventdate></chapter>
+            <chapter><chapterid>111948771079698466094</chapterid><city>Damietta</city><chaptername>Damietta</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103794441320864829952</chapterid><city>Jamasah, Daqahlia</city><chaptername>Delta University</chaptername><firsteventdate>2013.03.23</firsteventdate></chapter>
+            <chapter><chapterid>102181900821883712100</chapterid><city>Fayoum</city><chaptername>Fayoum</chaptername><firsteventdate>2015.02.21</firsteventdate></chapter>
+            <chapter><chapterid>110146929154013634072</chapterid><city>New Cairo</city><chaptername>German University in Cairo</chaptername><firsteventdate>2016.02.20</firsteventdate></chapter>
+            <chapter><chapterid>110723285997692504997</chapterid><city>Giza</city><chaptername>Giza</chaptername><firsteventdate>2016.03.19</firsteventdate></chapter>
+            <chapter><chapterid>115427621513744693301</chapterid><city>Helwan</city><chaptername>Helwan</chaptername><firsteventdate>2013.03.20</firsteventdate></chapter>
+            <chapter><chapterid>101086252616615295839</chapterid><city>Minia</city><chaptername>Minia</chaptername><firsteventdate>2013.02.21</firsteventdate></chapter>
+            <chapter><chapterid>114929582735909291621</chapterid><city>El-Shorouk City</city><chaptername>Shorouk</chaptername><firsteventdate>2011.05.14</firsteventdate></chapter>
+            <chapter><chapterid>117172213339114119917</chapterid><city>Sohag</city><chaptername>Sohag</chaptername><firsteventdate>2013.02.14</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Finland</countryname>
+        <countryid>fi</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>110750998798078446736</chapterid><city>Espoo</city><chaptername>Espoo</chaptername><firsteventdate>2013.10.12</firsteventdate></chapter>
+            <chapter><chapterid>104160757374093748818</chapterid><city>Turku</city><chaptername>Turku</chaptername><firsteventdate>2014.03.12</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>France</countryname>
+        <countryid>fr</countryid>
+        <number>14</number>
+        <chapters>
+            <chapter><chapterid>116028261050696939184</chapterid><city>Bordeaux</city><chaptername>Bordeaux Android User Group</chaptername><firsteventdate>2015.10.27</firsteventdate></chapter>
+            <chapter><chapterid>115088856554339700013</chapterid><city>Paris</city><chaptername>Cloud Paris</chaptername><firsteventdate>2016.06.28</firsteventdate></chapter>
+            <chapter><chapterid>105840950870167242716</chapterid><city>Lannion</city><chaptername>Code d'Armor</chaptername><firsteventdate>2011.12.06</firsteventdate></chapter>
+            <chapter><chapterid>101840695633864958385</chapterid><city>Brest</city><chaptername>Finist</chaptername><firsteventdate>2012.06.30</firsteventdate></chapter>
+            <chapter><chapterid>113891110741520781629</chapterid><city>Saint-Quentin</city><chaptername>Hi Pic</chaptername><firsteventdate>2013.10.18</firsteventdate></chapter>
+            <chapter><chapterid>108064444359793252329</chapterid><city>Lille</city><chaptername>Lille</chaptername><firsteventdate>2014.02.13</firsteventdate></chapter>
+            <chapter><chapterid>100234371859446651010</chapterid><city>Lyon</city><chaptername>Lyon Android</chaptername><firsteventdate>2012.09.20</firsteventdate></chapter>
+            <chapter><chapterid>104080355394243371522</chapterid><city>Nantes</city><chaptername>Nantes</chaptername><firsteventdate>2011.03.24</firsteventdate></chapter>
+            <chapter><chapterid>116733922317404688626</chapterid><city>Nice</city><chaptername>Nice</chaptername><firsteventdate>2016.02.01</firsteventdate></chapter>
+            <chapter><chapterid>100575125902423385750</chapterid><city>Paris</city><chaptername>Paris</chaptername><firsteventdate>2009.12.11</firsteventdate></chapter>
+            <chapter><chapterid>103781206198600111125</chapterid><city>Paris</city><chaptername>Paris Android</chaptername><firsteventdate>2012.06.06</firsteventdate></chapter>
+            <chapter><chapterid>108631645387454183040</chapterid><city>Rennes</city><chaptername>Rennes</chaptername><firsteventdate>2013.09.13</firsteventdate></chapter>
+            <chapter><chapterid>117732835400777918591</chapterid><city>Toulouse</city><chaptername>Toulouse Android</chaptername><firsteventdate>2013.02.20</firsteventdate></chapter>
+            <chapter><chapterid>113257808236686343126</chapterid><city>Tours</city><chaptername>Tours</chaptername><firsteventdate>2015.11.17</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Georgia</countryname>
+        <countryid>ge</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>106672659252619762166</chapterid><city>Tbilisi</city><chaptername>Tbilisi</chaptername><firsteventdate>2012.01.20</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Germany</countryname>
+        <countryid>de</countryid>
+        <number>27</number>
+        <chapters>
+            <chapter><chapterid>115055410376816588493</chapterid><city>Augsburg</city><chaptername>Augsburg</chaptername><firsteventdate>2016.01.13</firsteventdate></chapter>
+            <chapter><chapterid>115635340252753847571</chapterid><city>Berlin</city><chaptername>Berlin</chaptername><firsteventdate>2009.04.08</firsteventdate></chapter>
+            <chapter><chapterid>102464661817600154044</chapterid><city>Berlin</city><chaptername>Berlin Android</chaptername><firsteventdate>2012.09.26</firsteventdate></chapter>
+            <chapter><chapterid>114206505697282885347</chapterid><city>Berlin</city><chaptername>Berlin Golang</chaptername><firsteventdate>2013.02.08</firsteventdate></chapter>
+            <chapter><chapterid>100578803307384360500</chapterid><city>Dunningen</city><chaptername>Black Forest</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+            <chapter><chapterid>102863795915305230399</chapterid><city>Konstanz</city><chaptername>Bodensee</chaptername><firsteventdate>2010.09.03</firsteventdate></chapter>
+            <chapter><chapterid>114219620134458810855</chapterid><city>Rheinbach</city><chaptername>Bonn-Rhein-Sieg</chaptername><firsteventdate>2014.12.14</firsteventdate></chapter>
+            <chapter><chapterid>107701928579044041923</chapterid><city>Bremen</city><chaptername>Bremen</chaptername><firsteventdate>2011.11.07</firsteventdate></chapter>
+            <chapter><chapterid>117123335937961352111</chapterid><city>Dresden</city><chaptername>Dresden</chaptername><firsteventdate>2014.10.24</firsteventdate></chapter>
+            <chapter><chapterid>107373371386267684213</chapterid><city>Dusseldorf</city><chaptername>Düsseldorf</chaptername><firsteventdate>2010.01.23</firsteventdate></chapter>
+            <chapter><chapterid>109670902493218366587</chapterid><city>Nuremberg</city><chaptername>Erlangen-Nürnberg</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>108220757543085680481</chapterid><city>Freiburg</city><chaptername>Freiburg</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>114226021900650933814</chapterid><city>Hamburg</city><chaptername>Hamburg</chaptername><firsteventdate>2009.06.24</firsteventdate></chapter>
+            <chapter><chapterid>107859748046093089218</chapterid><city>Hamburg</city><chaptername>Hamburg Android</chaptername><firsteventdate>2014.06.18</firsteventdate></chapter>
+            <chapter><chapterid>103545472040309738031</chapterid><city>Hamburg</city><chaptername>Hamburg Golang</chaptername><firsteventdate>2014.02.27</firsteventdate></chapter>
+            <chapter><chapterid>109775289623271731783</chapterid><city>Karlsruhe</city><chaptername>Karlsruhe</chaptername><firsteventdate>2012.11.03</firsteventdate></chapter>
+            <chapter><chapterid>116742396737194286716</chapterid><city>Magdeburg</city><chaptername>Magdeburg</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>117253870280078392257</chapterid><city>Munich</city><chaptername>Munich</chaptername><firsteventdate>2009.04.01</firsteventdate></chapter>
+            <chapter><chapterid>115160714098008559164</chapterid><city>Muenchen</city><chaptername>Munich Android</chaptername><firsteventdate>2012.10.17</firsteventdate></chapter>
+            <chapter><chapterid>118437453443992444509</chapterid><city>Munich</city><chaptername>Munich Golang</chaptername><firsteventdate>2014.04.24</firsteventdate></chapter>
+            <chapter><chapterid>110766026125672209668</chapterid><city>Bielefeld</city><chaptername>Ostwestfalen Lippe</chaptername><firsteventdate>2011.11.24</firsteventdate></chapter>
+            <chapter><chapterid>113315191088226750352</chapterid><city>Passau</city><chaptername>Passau</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>105059823716723829232</chapterid><city>Regensburg</city><chaptername>Regensburg</chaptername><firsteventdate>2014.11.25</firsteventdate></chapter>
+            <chapter><chapterid>100306385846086409727</chapterid><city>Frankfurt am Main</city><chaptername>Rhein-Main</chaptername><firsteventdate>2009.09.03</firsteventdate></chapter>
+            <chapter><chapterid>110418713081470246659</chapterid><city>Stuttgart</city><chaptername>Stuttgart</chaptername><firsteventdate>2010.01.29</firsteventdate></chapter>
+            <chapter><chapterid>115416272191588134848</chapterid><city>Heilbronn</city><chaptername>Unterland</chaptername><firsteventdate>2015.04.23</firsteventdate></chapter>
+            <chapter><chapterid>106570183954282805080</chapterid><city>Ahaus</city><chaptername>Westmünsterland</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Ghana</countryname>
+        <countryid>gh</countryid>
+        <number>7</number>
+        <chapters>
+            <chapter><chapterid>117620641470438104052</chapterid><city>Accra</city><chaptername>Accra</chaptername><firsteventdate>2010.03.05</firsteventdate></chapter>
+            <chapter><chapterid>110457967927902741919</chapterid><city>Accra</city><chaptername>Ashesi</chaptername><firsteventdate>2014.07.12</firsteventdate></chapter>
+            <chapter><chapterid>112443472054170169826</chapterid><city>Kumasi</city><chaptername>KNUST</chaptername><firsteventdate>2010.09.18</firsteventdate></chapter>
+            <chapter><chapterid>102608342475322325848</chapterid><city>Legon</city><chaptername>Legon</chaptername><firsteventdate>2015.03.12</firsteventdate></chapter>
+            <chapter><chapterid>101938337340446750022</chapterid><city>Accra</city><chaptername>Regent University</chaptername><firsteventdate>2015.02.19</firsteventdate></chapter>
+            <chapter><chapterid>114801498503576127680</chapterid><city>Sunyani</city><chaptername>Sunyani</chaptername><firsteventdate>2015.10.03</firsteventdate></chapter>
+            <chapter><chapterid>108678197502943958813</chapterid><city>Cape Coast</city><chaptername>University of Cape Coast</chaptername><firsteventdate>2010.11.19</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Greece</countryname>
+        <countryid>gr</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>106818930834147594136</chapterid><city>Heraklion</city><chaptername>Herakion</chaptername><firsteventdate>2016.03.10</firsteventdate></chapter>
+            <chapter><chapterid>103424383114732336071</chapterid><city>Thessaloniki</city><chaptername>Thessaloniki</chaptername><firsteventdate>2013.09.07</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Guatemala</countryname>
+        <countryid>gt</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>116869685523331873031</chapterid><city>Guatemala City</city><chaptername>Guatemala</chaptername><firsteventdate>2010.06.16</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Hungary</countryname>
+        <countryid>hu</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>109554147114014091559</chapterid><city>Budapest</city><chaptername>Budapest</chaptername><firsteventdate>2013.09.23</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>India</countryname>
+        <countryid>in</countryid>
+        <number>47</number>
+        <chapters>
+            <chapter><chapterid>106261089114347152720</chapterid><city>Ahmedabad,Gujarat</city><chaptername>Ahmedabad</chaptername><firsteventdate>2012.09.15</firsteventdate></chapter>
+            <chapter><chapterid>102753048484564707718</chapterid><city>Allahabad,Uttar Pradesh</city><chaptername>Allahabad</chaptername><firsteventdate>2012.10.08</firsteventdate></chapter>
+            <chapter><chapterid>106673010543655209346</chapterid><city>Noida</city><chaptername>Amity University</chaptername><firsteventdate>2014.05.12</firsteventdate></chapter>
+            <chapter><chapterid>111296394388839216667</chapterid><city>Pilani</city><chaptername>BITS Pilani</chaptername><firsteventdate>2011.10.11</firsteventdate></chapter>
+            <chapter><chapterid>115886112560887475581</chapterid><city>New Delhi</city><chaptername>BVP</chaptername><firsteventdate>2011.08.12</firsteventdate></chapter>
+            <chapter><chapterid>104550553343399000979</chapterid><city>Bangalore</city><chaptername>Bangalore</chaptername><firsteventdate>2011.09.11</firsteventdate></chapter>
+            <chapter><chapterid>100528365481290832342</chapterid><city>Vadodara</city><chaptername>Baroda</chaptername><firsteventdate>2013.09.08</firsteventdate></chapter>
+            <chapter><chapterid>114286035682716151642</chapterid><city>Belgaum,Karnataka</city><chaptername>Belgaum</chaptername><firsteventdate>2012.09.01</firsteventdate></chapter>
+            <chapter><chapterid>103634831911213383878</chapterid><city>Bhubaneswar,Orissa</city><chaptername>Bhubaneswar</chaptername><firsteventdate>2013.03.17</firsteventdate></chapter>
+            <chapter><chapterid>107164202864939006825</chapterid><city>Bangalore,karnataka</city><chaptername>BlrDroid</chaptername><firsteventdate>2013.01.05</firsteventdate></chapter>
+            <chapter><chapterid>117167614059752440390</chapterid><city>Chandigarh</city><chaptername>Chandigarh</chaptername><firsteventdate>2011.12.01</firsteventdate></chapter>
+            <chapter><chapterid>114972274874706002296</chapterid><city>Chennai</city><chaptername>Chennai</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+            <chapter><chapterid>106046004645175854179</chapterid><city>Cochin,kerala</city><chaptername>Cochin</chaptername><firsteventdate>2013.03.16</firsteventdate></chapter>
+            <chapter><chapterid>107044365176730310412</chapterid><city>Coimbatore, Tamil Nadu</city><chaptername>Coimbatore</chaptername><firsteventdate>2013.04.13</firsteventdate></chapter>
+            <chapter><chapterid>112567231965124788407</chapterid><city>Gandhinagar,Gujarat</city><chaptername>DA-IICT Gandhinagar</chaptername><firsteventdate>2012.10.13</firsteventdate></chapter>
+            <chapter><chapterid>103466449312386544864</chapterid><city>Dharwad</city><chaptername>Dharwad</chaptername><firsteventdate>2012.03.24</firsteventdate></chapter>
+            <chapter><chapterid>110448195989468248957</chapterid><city>Goa</city><chaptername>GAUG</chaptername><firsteventdate>2013.01.19</firsteventdate></chapter>
+            <chapter><chapterid>109189940762716110863</chapterid><city>Gandhinagar</city><chaptername>Gandhinagar</chaptername><firsteventdate>2011.09.03</firsteventdate></chapter>
+            <chapter><chapterid>112031508193690787710</chapterid><city>Goa</city><chaptername>Goa</chaptername><firsteventdate>2010.08.24</firsteventdate></chapter>
+            <chapter><chapterid>114190263289122404629</chapterid><city>Hyderabad</city><chaptername>Hyderabad</chaptername><firsteventdate>2012.02.15</firsteventdate></chapter>
+            <chapter><chapterid>109902596446734053804</chapterid><city>Guwahati</city><chaptername>IIT Guwahati</chaptername><firsteventdate>2012.08.29</firsteventdate></chapter>
+            <chapter><chapterid>110753063968867219389</chapterid><city>Kanpur</city><chaptername>IIT Kanpur</chaptername><firsteventdate>2013.03.29</firsteventdate></chapter>
+            <chapter><chapterid>109863280595977439143</chapterid><city>Indore</city><chaptername>Indore</chaptername><firsteventdate>2012.06.08</firsteventdate></chapter>
+            <chapter><chapterid>112169310231629853876</chapterid><city>JIIT, NOIDA, Delhi, India</city><chaptername>JIIT Noida</chaptername><firsteventdate>2012.04.26</firsteventdate></chapter>
+            <chapter><chapterid>108501396545659745683</chapterid><city>Noida,Uttar Pradesh</city><chaptername>JSS Noida</chaptername><firsteventdate>2012.09.25</firsteventdate></chapter>
+            <chapter><chapterid>114790565755036483829</chapterid><city>Jalandhar</city><chaptername>Jalandhar</chaptername><firsteventdate>2011.03.29</firsteventdate></chapter>
+            <chapter><chapterid>111014253228149858796</chapterid><city>Jodhpur</city><chaptername>Jodhpur</chaptername><firsteventdate>2014.01.05</firsteventdate></chapter>
+            <chapter><chapterid>112836762113384199150</chapterid><city>Srinagar,Kashmir</city><chaptername>Kashmir</chaptername><firsteventdate>2013.02.02</firsteventdate></chapter>
+            <chapter><chapterid>101088239935634377703</chapterid><city>Kolkata</city><chaptername>Kolkata</chaptername><firsteventdate>2012.09.29</firsteventdate></chapter>
+            <chapter><chapterid>114055418793204110473</chapterid><city>Kozhikode,Kerala</city><chaptername>Kozhikode</chaptername><firsteventdate>2013.02.14</firsteventdate></chapter>
+            <chapter><chapterid>111359547963135248341</chapterid><city>Jaipur,Rajasthan</city><chaptername>LNMIIT Jaipur</chaptername><firsteventdate>2013.03.15</firsteventdate></chapter>
+            <chapter><chapterid>104331065705906191744</chapterid><city>Madurai</city><chaptername>Madurai</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>115695199394983068608</chapterid><city>Madurai</city><chaptername>Madurai</chaptername><firsteventdate>2015.01.31</firsteventdate></chapter>
+            <chapter><chapterid>107642459388713562928</chapterid><city>Mangalore</city><chaptername>Mangalore</chaptername><firsteventdate>2014.03.14</firsteventdate></chapter>
+            <chapter><chapterid>101309722229928080208</chapterid><city>Manipal</city><chaptername>Manipal</chaptername><firsteventdate>2011.10.06</firsteventdate></chapter>
+            <chapter><chapterid>109582787530740759595</chapterid><city>Mumbai,Maharashtra</city><chaptername>Mumbai</chaptername><firsteventdate>2013.01.07</firsteventdate></chapter>
+            <chapter><chapterid>110808083137842746831</chapterid><city>Surat</city><chaptername>NIT Surat</chaptername><firsteventdate>2013.12.24</firsteventdate></chapter>
+            <chapter><chapterid>115302893293426347208</chapterid><city>Nagpur</city><chaptername>Nagpur</chaptername><firsteventdate>2016.04.18</firsteventdate></chapter>
+            <chapter><chapterid>114576537688641864561</chapterid><city>New Delhi</city><chaptername>New Delhi</chaptername><firsteventdate>2011.08.26</firsteventdate></chapter>
+            <chapter><chapterid>117099251731858299644</chapterid><city>Pune,Maharashtra</city><chaptername>Pune</chaptername><firsteventdate>2012.10.06</firsteventdate></chapter>
+            <chapter><chapterid>111808846375797776302</chapterid><city>Rajkot</city><chaptername>Rajkot</chaptername><firsteventdate>2012.12.08</firsteventdate></chapter>
+            <chapter><chapterid>115361673572394495270</chapterid><city>Shivamogga</city><chaptername>Shivamogga</chaptername><firsteventdate>2016.03.05</firsteventdate></chapter>
+            <chapter><chapterid>117599472848340059730</chapterid><city>Cuttak</city><chaptername>Sri Sri University</chaptername><firsteventdate>2014.02.05</firsteventdate></chapter>
+            <chapter><chapterid>110441223852820157926</chapterid><city>Thiruvanathapuram</city><chaptername>Thiruvanathapuram</chaptername><firsteventdate>2013.01.19</firsteventdate></chapter>
+            <chapter><chapterid>113052214642441262354</chapterid><city>Udaipur,Rajasthan</city><chaptername>Udaipur</chaptername><firsteventdate>2013.03.03</firsteventdate></chapter>
+            <chapter><chapterid>101018908043689071742</chapterid><city>Vellore</city><chaptername>VIT Vellore</chaptername><firsteventdate>2014.08.01</firsteventdate></chapter>
+            <chapter><chapterid>106957422280838439269</chapterid><city>Vijayawada</city><chaptername>Vijayawada</chaptername><firsteventdate>2014.05.01</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Indonesia</countryname>
+        <countryid>id</countryid>
+        <number>6</number>
+        <chapters>
+            <chapter><chapterid>110808684040231523230</chapterid><city>Bandung</city><chaptername>Bandung</chaptername><firsteventdate>2015.08.21</firsteventdate></chapter>
+            <chapter><chapterid>115030424335006795397</chapterid><city>Depok</city><chaptername>Depok</chaptername><firsteventdate>2015.11.26</firsteventdate></chapter>
+            <chapter><chapterid>104799774551163659431</chapterid><city>Jakarta</city><chaptername>Jakarta</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+            <chapter><chapterid>109945435659234416221</chapterid><city>Jogjakarta</city><chaptername>Jogjakarta</chaptername><firsteventdate>2014.02.09</firsteventdate></chapter>
+            <chapter><chapterid>107095076091983603214</chapterid><city>Semarang</city><chaptername>Semarang</chaptername><firsteventdate>2013.05.16</firsteventdate></chapter>
+            <chapter><chapterid>104503803738113319590</chapterid><city>Surabaya</city><chaptername>Surabaya</chaptername><firsteventdate>2012.03.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Iraq</countryname>
+        <countryid>iq</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>106887732823425223315</chapterid><city>Basra</city><chaptername>Basra</chaptername><firsteventdate>2014.02.27</firsteventdate></chapter>
+            <chapter><chapterid>104468391692150099011</chapterid><city>Erbil</city><chaptername>Erbil</chaptername><firsteventdate>2016.03.10</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Ireland</countryname>
+        <countryid>ie</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>100633195306202271076</chapterid><city>Dublin</city><chaptername>Dublin</chaptername><firsteventdate>2010.07.27</firsteventdate></chapter>
+            <chapter><chapterid>116685125720306144483</chapterid><city>Galway</city><chaptername>Galway</chaptername><firsteventdate>2015.09.24</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Israel</countryname>
+        <countryid>il</countryid>
+        <number>8</number>
+        <chapters>
+            <chapter><chapterid>115824198132464916191</chapterid><city>Be'er Sheva</city><chaptername>Beer Sheva</chaptername><firsteventdate>2013.11.21</firsteventdate></chapter>
+            <chapter><chapterid>113389230669974437854</chapterid><city>Haifa</city><chaptername>Haifa</chaptername><firsteventdate>2013.01.07</firsteventdate></chapter>
+            <chapter><chapterid>108330465965030046982</chapterid><city>Herzeliya</city><chaptername>Herzeliya</chaptername><firsteventdate>2012.01.10</firsteventdate></chapter>
+            <chapter><chapterid>115311490359966632820</chapterid><city>Tel Aviv</city><chaptername>Israel Women</chaptername><firsteventdate>2014.03.04</firsteventdate></chapter>
+            <chapter><chapterid>101779847320686747978</chapterid><city>Jerusalem</city><chaptername>Jerusalem</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>111575372576121800390</chapterid><city>Nazareth</city><chaptername>Nazareth</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>116818838111714845459</chapterid><city>Rishon Le Zion</city><chaptername>Rishon Le Zion</chaptername><firsteventdate>2014.09.22</firsteventdate></chapter>
+            <chapter><chapterid>104207746710491978555</chapterid><city>Tel Aviv</city><chaptername>Tel Aviv</chaptername><firsteventdate>2010.05.17</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Italy</countryname>
+        <countryid>it</countryid>
+        <number>25</number>
+        <chapters>
+            <chapter><chapterid>104942670949404025825</chapterid><city>Ancona</city><chaptername>Ancona</chaptername><firsteventdate>2014.04.15</firsteventdate></chapter>
+            <chapter><chapterid>106251105155216710234</chapterid><city>Bari</city><chaptername>Bari</chaptername><firsteventdate>2013.02.23</firsteventdate></chapter>
+            <chapter><chapterid>108167517038964423068</chapterid><city>Bologna</city><chaptername>Bologna</chaptername><firsteventdate>2012.11.06</firsteventdate></chapter>
+            <chapter><chapterid>104091916976470214422</chapterid><city>Brescia</city><chaptername>Brescia</chaptername><firsteventdate>2012.12.01</firsteventdate></chapter>
+            <chapter><chapterid>118137135858143918205</chapterid><city>Camerino</city><chaptername>Camerino</chaptername><firsteventdate>2014.04.11</firsteventdate></chapter>
+            <chapter><chapterid>118330453895116582842</chapterid><city>Naples</city><chaptername>Campania</chaptername><firsteventdate>2011.08.03</firsteventdate></chapter>
+            <chapter><chapterid>118102220008611585984</chapterid><city>Catania</city><chaptername>Catania</chaptername><firsteventdate>2010.03.18</firsteventdate></chapter>
+            <chapter><chapterid>111820558224920657100</chapterid><city>Cosenza</city><chaptername>Cosenza</chaptername><firsteventdate>2015.06.18</firsteventdate></chapter>
+            <chapter><chapterid>106830297068962619150</chapterid><city>Firenze</city><chaptername>Firenze</chaptername><firsteventdate>2010.02.05</firsteventdate></chapter>
+            <chapter><chapterid>112454638433901035373</chapterid><city>Gela</city><chaptername>Gela</chaptername><firsteventdate>2014.03.19</firsteventdate></chapter>
+            <chapter><chapterid>117774146664629729620</chapterid><city>Genova</city><chaptername>Genova</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+            <chapter><chapterid>111537749545250109648</chapterid><city>Milano</city><chaptername>Milan</chaptername><firsteventdate>2011.11.03</firsteventdate></chapter>
+            <chapter><chapterid>110525413309040576910</chapterid><city>Sant'Agata di Militello</city><chaptername>Nebrodi</chaptername><firsteventdate>2011.07.04</firsteventdate></chapter>
+            <chapter><chapterid>111445091579754468671</chapterid><city>Palermo</city><chaptername>Palermo</chaptername><firsteventdate>2010.01.29</firsteventdate></chapter>
+            <chapter><chapterid>100029768638367982742</chapterid><city>Perugia</city><chaptername>Perugia</chaptername><firsteventdate>2012.03.09</firsteventdate></chapter>
+            <chapter><chapterid>109764437711338482169</chapterid><city>Pescara</city><chaptername>Pescara</chaptername><firsteventdate>2014.04.23</firsteventdate></chapter>
+            <chapter><chapterid>105020119999752987442</chapterid><city>Pisa</city><chaptername>Pisa</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>113375809288585284071</chapterid><city>Reggio Calabria</city><chaptername>Reggio Calabria</chaptername><firsteventdate>2014.08.08</firsteventdate></chapter>
+            <chapter><chapterid>102079326516882000697</chapterid><city>Reggio Emilia</city><chaptername>Reggio Emilia</chaptername><firsteventdate>2015.11.21</firsteventdate></chapter>
+            <chapter><chapterid>110676501469531199993</chapterid><city>Rome</city><chaptername>Roma Lab</chaptername><firsteventdate>2012.11.29</firsteventdate></chapter>
+            <chapter><chapterid>117782484864607288527</chapterid><city>Cagliari</city><chaptername>Sardegna</chaptername><firsteventdate>2012.02.04</firsteventdate></chapter>
+            <chapter><chapterid>104526335641251202320</chapterid><city>Turin</city><chaptername>Torino</chaptername><firsteventdate>2013.01.22</firsteventdate></chapter>
+            <chapter><chapterid>111161676776647373558</chapterid><city>Trento</city><chaptername>Trento</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+            <chapter><chapterid>108234097192616821410</chapterid><city>Udine</city><chaptername>Udine</chaptername><firsteventdate>2012.10.20</firsteventdate></chapter>
+            <chapter><chapterid>116835345023500607393</chapterid><city>Venice</city><chaptername>Venezia</chaptername><firsteventdate>2016.04.11</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Japan</countryname>
+        <countryid>jp</countryid>
+        <number>10</number>
+        <chapters>
+            <chapter><chapterid>110177155288519600576</chapterid><city>Okayama</city><chaptername>Chugoku</chaptername><firsteventdate>2010.07.31</firsteventdate></chapter>
+            <chapter><chapterid>118192477987122993747</chapterid><city>Hakodate</city><chaptername>Hokkaido</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>109968832437803584115</chapterid><city>Ishinomaki</city><chaptername>Ishinomaki</chaptername><firsteventdate>2015.03.21</firsteventdate></chapter>
+            <chapter><chapterid>106414828378079312919</chapterid><city>Kobe</city><chaptername>Kobe</chaptername><firsteventdate>2012.01.22</firsteventdate></chapter>
+            <chapter><chapterid>116129315311979954039</chapterid><city>Kyoto</city><chaptername>Kyoto</chaptername><firsteventdate>2009.10.16</firsteventdate></chapter>
+            <chapter><chapterid>118326576983856530375</chapterid><city>Fukuoka</city><chaptername>Kyushu</chaptername><firsteventdate>2011.01.24</firsteventdate></chapter>
+            <chapter><chapterid>109355660646855759577</chapterid><city>Nagoya</city><chaptername>Nagoya</chaptername><firsteventdate>2011.09.11</firsteventdate></chapter>
+            <chapter><chapterid>100492277319600142326</chapterid><city>Kagawa</city><chaptername>Shikoku</chaptername><firsteventdate>2009.11.07</firsteventdate></chapter>
+            <chapter><chapterid>115972055730249971330</chapterid><city>Nagano</city><chaptername>Shinshu</chaptername><firsteventdate>2012.07.08</firsteventdate></chapter>
+            <chapter><chapterid>109573275320754186076</chapterid><city>Tokyo</city><chaptername>Tokyo</chaptername><firsteventdate>2009.08.05</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Jordan</countryname>
+        <countryid>jo</countryid>
+        <number>6</number>
+        <chapters>
+            <chapter><chapterid>105256268904500410373</chapterid><city>Amman</city><chaptername>Al-Zaytoonah University</chaptername><firsteventdate>2013.11.01</firsteventdate></chapter>
+            <chapter><chapterid>101896497448037001660</chapterid><city>Amman</city><chaptername>Amman</chaptername><firsteventdate>2012.10.13</firsteventdate></chapter>
+            <chapter><chapterid>104837465409714642255</chapterid><city>Petra</city><chaptername>Petra University</chaptername><firsteventdate>2013.05.13</firsteventdate></chapter>
+            <chapter><chapterid>112669913611825566315</chapterid><city>Ar Ramtha</city><chaptername>Techno</chaptername><firsteventdate>2016.02.14</firsteventdate></chapter>
+            <chapter><chapterid>116638475004395157097</chapterid><city>Amman</city><chaptername>WISE University</chaptername><firsteventdate>2014.01.05</firsteventdate></chapter>
+            <chapter><chapterid>105734230312112352829</chapterid><city>Irbid</city><chaptername>Yarmouk University</chaptername><firsteventdate>2011.12.31</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Kazakhstan</countryname>
+        <countryid>kz</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>100893943920756626864</chapterid><city>Almaty</city><chaptername>GTUG Almaty</chaptername><firsteventdate>2011.04.16</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Kenya</countryname>
+        <countryid>ke</countryid>
+        <number>15</number>
+        <chapters>
+            <chapter><chapterid>117240138879776061100</chapterid><city>Egerton</city><chaptername>Egerton</chaptername><firsteventdate>2015.10.17</firsteventdate></chapter>
+            <chapter><chapterid>109598956485644999920</chapterid><city>Nairobi</city><chaptername>JKUAT</chaptername><firsteventdate>2012.09.27</firsteventdate></chapter>
+            <chapter><chapterid>111703250053169600089</chapterid><city>Nakuru</city><chaptername>Kabarak</chaptername><firsteventdate>2013.02.09</firsteventdate></chapter>
+            <chapter><chapterid>110447302720400261659</chapterid><city>Mombasa</city><chaptername>Kenya Methodist University</chaptername><firsteventdate>2014.11.14</firsteventdate></chapter>
+            <chapter><chapterid>102611073320171181155</chapterid><city>Kericho</city><chaptername>Kericho</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>102852233334332438474</chapterid><city>Nyeri</city><chaptername>Kimathi University</chaptername><firsteventdate>2012.12.22</firsteventdate></chapter>
+            <chapter><chapterid>112962354634647547381</chapterid><city>Kisumu</city><chaptername>Kisumu</chaptername><firsteventdate>2014.03.29</firsteventdate></chapter>
+            <chapter><chapterid>114504181347652400758</chapterid><city>Kakamega</city><chaptername>MMUST</chaptername><firsteventdate>2014.08.15</firsteventdate></chapter>
+            <chapter><chapterid>100413733864528613887</chapterid><city>Eldoret</city><chaptername>Moi University</chaptername><firsteventdate>2015.05.21</firsteventdate></chapter>
+            <chapter><chapterid>105153400962376532068</chapterid><city>Mombasa</city><chaptername>Mombasa</chaptername><firsteventdate>2013.04.02</firsteventdate></chapter>
+            <chapter><chapterid>111091663522444466404</chapterid><city>Nairobi</city><chaptername>Multimedia University of Kenya</chaptername><firsteventdate>2015.01.24</firsteventdate></chapter>
+            <chapter><chapterid>108023673559083336909</chapterid><city>Nairobi</city><chaptername>Nairobi</chaptername><firsteventdate>2010.02.27</firsteventdate></chapter>
+            <chapter><chapterid>104634437641684994172</chapterid><city>Nairobi</city><chaptername>Strathmore</chaptername><firsteventdate>2013.05.04</firsteventdate></chapter>
+            <chapter><chapterid>104711637504955175121</chapterid><city>Nairobi</city><chaptername>USIU</chaptername><firsteventdate>2015.03.14</firsteventdate></chapter>
+            <chapter><chapterid>100503895904326242391</chapterid><city>Nairobi</city><chaptername>University of Nairobi</chaptername><firsteventdate>2011.12.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Kuwait</countryname>
+        <countryid>kw</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113524358246094158685</chapterid><city>Kuwait City</city><chaptername>Kuwait</chaptername><firsteventdate>2013.01.09</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Kyrgyzstan</countryname>
+        <countryid>kg</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>107766380565023451691</chapterid><city>Bishkek</city><chaptername>Bishkek</chaptername><firsteventdate>2011.09.30</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Laos</countryname>
+        <countryid>la</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>118282269875743492487</chapterid><city>Vientiane</city><chaptername>Vientiane</chaptername><firsteventdate>2012.01.07</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Latvia</countryname>
+        <countryid>lv</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105327287996815830446</chapterid><city>Riga</city><chaptername>Riga</chaptername><firsteventdate>2014.03.22</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Lithuania</countryname>
+        <countryid>lt</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>102593482509208319335</chapterid><city>Kaunas</city><chaptername>Kaunas</chaptername><firsteventdate>2016.06.28</firsteventdate></chapter>
+            <chapter><chapterid>109861037894263174818</chapterid><city>Vilnius</city><chaptername>Vilnius</chaptername><firsteventdate>2012.11.19</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Malaysia</countryname>
+        <countryid>my</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>102968867240239754111</chapterid><city>Penang</city><chaptername>George Town</chaptername><firsteventdate>2014.05.07</firsteventdate></chapter>
+            <chapter><chapterid>117368911868983524073</chapterid><city>Kota Kinabalu</city><chaptername>Kota Kinabalu</chaptername><firsteventdate>2013.08.17</firsteventdate></chapter>
+            <chapter><chapterid>106366117871957399001</chapterid><city>Kuala Lumpur</city><chaptername>Kuala Lumpur</chaptername><firsteventdate>2009.06.27</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mali</countryname>
+        <countryid>ml</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>116265522861026132901</chapterid><city>Bamako</city><chaptername>Bamako</chaptername><firsteventdate>2014.06.21</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Malta</countryname>
+        <countryid>mt</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105478223572998963170</chapterid><city>Valetta</city><chaptername>Malta</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mauritania</countryname>
+        <countryid>mr</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>101418494167802969097</chapterid><city>Nouakchott</city><chaptername>Nouakchott</chaptername><firsteventdate>2014.05.21</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mauritius</countryname>
+        <countryid>mu</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>102474100891329643551</chapterid><city>Port Louis</city><chaptername>Port Louis</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mexico</countryname>
+        <countryid>mx</countryid>
+        <number>21</number>
+        <chapters>
+            <chapter><chapterid>115312672821910676785</chapterid><city>Mexico City</city><chaptername>Agencias</chaptername><firsteventdate>2013.02.01</firsteventdate></chapter>
+            <chapter><chapterid>116297186682251119835</chapterid><city>Aguascalientes</city><chaptername>Aguascalientes</chaptername><firsteventdate>2016.02.29</firsteventdate></chapter>
+            <chapter><chapterid>114224351719966253327</chapterid><city>Mexico City</city><chaptername>Androititlan</chaptername><firsteventdate>2012.10.16</firsteventdate></chapter>
+            <chapter><chapterid>112469980578030352685</chapterid><city>Mexico City</city><chaptername>Angular Mexico</chaptername><firsteventdate>2015.08.15</firsteventdate></chapter>
+            <chapter><chapterid>118356804517087829263</chapterid><city>Cancun</city><chaptername>Cancún</chaptername><firsteventdate>2013.05.02</firsteventdate></chapter>
+            <chapter><chapterid>115765282632666996965</chapterid><city>Mexico City</city><chaptername>Cloud MX</chaptername><firsteventdate>2015.08.19</firsteventdate></chapter>
+            <chapter><chapterid>116137241171711738327</chapterid><city>Guadalajara</city><chaptername>Guadalajara</chaptername><firsteventdate>2013.02.20</firsteventdate></chapter>
+            <chapter><chapterid>103202903414686867681</chapterid><city>Hermosillo</city><chaptername>Hermosillo</chaptername><firsteventdate>2013.05.25</firsteventdate></chapter>
+            <chapter><chapterid>112844737739569862351</chapterid><city>Mexico City</city><chaptername>IPN</chaptername><firsteventdate>2013.04.05</firsteventdate></chapter>
+            <chapter><chapterid>110737172165250766203</chapterid><city>Torreon</city><chaptername>Laguna</chaptername><firsteventdate>2009.08.15</firsteventdate></chapter>
+            <chapter><chapterid>108646322376645258661</chapterid><city>Merida</city><chaptername>Merida</chaptername><firsteventdate>2014.01.25</firsteventdate></chapter>
+            <chapter><chapterid>110948874951396867357</chapterid><city>Mexicali</city><chaptername>Mexicali</chaptername><firsteventdate>2014.01.10</firsteventdate></chapter>
+            <chapter><chapterid>105913671375627414441</chapterid><city>Misantla</city><chaptername>Misantla</chaptername><firsteventdate>2013.06.07</firsteventdate></chapter>
+            <chapter><chapterid>117540886576474322118</chapterid><city>Monterrey</city><chaptername>Monterrey</chaptername><firsteventdate>2014.07.19</firsteventdate></chapter>
+            <chapter><chapterid>106951248012161370125</chapterid><city>Morelia</city><chaptername>Morelia</chaptername><firsteventdate>2013.10.18</firsteventdate></chapter>
+            <chapter><chapterid>113290837132111900641</chapterid><city>Mexico City</city><chaptername>Polymer México</chaptername><firsteventdate>2015.04.24</firsteventdate></chapter>
+            <chapter><chapterid>116218570219789166551</chapterid><city>Tijuana</city><chaptername>Tijuana</chaptername><firsteventdate>2011.06.27</firsteventdate></chapter>
+            <chapter><chapterid>102798504986036041699</chapterid><city>Mexico City UNAM</city><chaptername>UNAM</chaptername><firsteventdate>2012.10.10</firsteventdate></chapter>
+            <chapter><chapterid>115585660531114850017</chapterid><city>Villahermosa</city><chaptername>Villahermosa</chaptername><firsteventdate>2013.11.06</firsteventdate></chapter>
+            <chapter><chapterid>104875751690330282858</chapterid><city>Mexico City</city><chaptername>WonderCoders</chaptername><firsteventdate>2015.05.14</firsteventdate></chapter>
+            <chapter><chapterid>106864877978103968037</chapterid><city>Zacatecas</city><chaptername>Zacatecas</chaptername><firsteventdate>2010.10.02</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Moldova</countryname>
+        <countryid>md</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>102745134847043369252</chapterid><city>Chisinau</city><chaptername>Moldova</chaptername><firsteventdate>2012.11.04</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mongolia</countryname>
+        <countryid>mn</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>111648252462710495780</chapterid><city>Ulaan Baator</city><chaptername>Ulaanbaatar</chaptername><firsteventdate>2015.08.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Morocco</countryname>
+        <countryid>ma</countryid>
+        <number>5</number>
+        <chapters>
+            <chapter><chapterid>101926303209788570603</chapterid><city>Beni Mellal</city><chaptername>Beni Mellal</chaptername><firsteventdate>2016.04.09</firsteventdate></chapter>
+            <chapter><chapterid>114751103693757584191</chapterid><city>Casablanca</city><chaptername>Casablanca</chaptername><firsteventdate>2011.10.05</firsteventdate></chapter>
+            <chapter><chapterid>112208237617611654612</chapterid><city>El Jadida</city><chaptername>El Jadida</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>105916734940500587856</chapterid><city>Oujda</city><chaptername>Oujda</chaptername><firsteventdate>2013.02.16</firsteventdate></chapter>
+            <chapter><chapterid>116781374290268208620</chapterid><city>Settat</city><chaptername>SETTAT</chaptername><firsteventdate>2014.02.21</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Mozambique</countryname>
+        <countryid>mz</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>112910758975451069922</chapterid><city>Beira</city><chaptername>Beira</chaptername><firsteventdate>2014.11.06</firsteventdate></chapter>
+            <chapter><chapterid>114866320150074768018</chapterid><city>Maputo</city><chaptername>Maputo</chaptername><firsteventdate>2014.11.08</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Myanmar</countryname>
+        <countryid>mm</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105531398471796409992</chapterid><city>Yangon</city><chaptername>Yangon</chaptername><firsteventdate>2014.05.24</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Namibia</countryname>
+        <countryid>na</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113600934227768728168</chapterid><city>Windhoek</city><chaptername>Windhoek</chaptername><firsteventdate>2015.05.21</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Nepal</countryname>
+        <countryid>np</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>112807703637841959875</chapterid><city>Birgunj</city><chaptername>Birgunj</chaptername><firsteventdate>2013.05.16</firsteventdate></chapter>
+            <chapter><chapterid>104003514155874791868</chapterid><city>Kathmandu</city><chaptername>Kathmandu</chaptername><firsteventdate>2011.06.25</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Netherlands</countryname>
+        <countryid>nl</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>110417992440888244704</chapterid><city>Amsterdam</city><chaptername>Cloud Netherlands</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>113182948271879290904</chapterid><city>Amsterdam</city><chaptername>Dutch Android User Group</chaptername><firsteventdate>2012.12.20</firsteventdate></chapter>
+            <chapter><chapterid>109146411236228596892</chapterid><city>Amsterdam</city><chaptername>Netherlands</chaptername><firsteventdate>2009.12.10</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>New Zealand</countryname>
+        <countryid>nz</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>117530088719734462383</chapterid><city>Auckland</city><chaptername>Auckland</chaptername><firsteventdate>2010.09.02</firsteventdate></chapter>
+            <chapter><chapterid>110276737562460152992</chapterid><city>Wellington</city><chaptername>Wellington</chaptername><firsteventdate>2014.12.09</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Nicaragua</countryname>
+        <countryid>ni</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113255713593303778606</chapterid><city>Managua</city><chaptername>Managua</chaptername><firsteventdate>2015.03.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Niger</countryname>
+        <countryid>ne</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>106705955941079779596</chapterid><city>Niamey</city><chaptername>Niamey</chaptername><firsteventdate>2013.05.18</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Nigeria</countryname>
+        <countryid>ng</countryid>
+        <number>39</number>
+        <chapters>
+            <chapter><chapterid>115737274430015604080</chapterid><city>Ondo</city><chaptername>AAUA</chaptername><firsteventdate>2015.04.17</firsteventdate></chapter>
+            <chapter><chapterid>110072242410958082966</chapterid><city>Aba</city><chaptername>Aba</chaptername><firsteventdate>2014.08.30</firsteventdate></chapter>
+            <chapter><chapterid>105695256976450996786</chapterid><city>Abeokuta</city><chaptername>Abeokuta</chaptername><firsteventdate>2016.03.23</firsteventdate></chapter>
+            <chapter><chapterid>114932120587711040822</chapterid><city>Abuja</city><chaptername>Abuja</chaptername><firsteventdate>2010.01.11</firsteventdate></chapter>
+            <chapter><chapterid>110463793540880663642</chapterid><city>Ado Ekiti</city><chaptername>Ado-Ekiti</chaptername><firsteventdate>2013.10.09</firsteventdate></chapter>
+            <chapter><chapterid>113800801882072410635</chapterid><city>Akure</city><chaptername>Akure</chaptername><firsteventdate>2010.12.03</firsteventdate></chapter>
+            <chapter><chapterid>101561674681942684865</chapterid><city>Kano</city><chaptername>BUK</chaptername><firsteventdate>2013.09.28</firsteventdate></chapter>
+            <chapter><chapterid>107953593362829368387</chapterid><city>Bauchi</city><chaptername>Bauchi</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>114272463497275935340</chapterid><city>Ogun</city><chaptername>Bells University</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>102541424647802000372</chapterid><city>Benin</city><chaptername>Benin</chaptername><firsteventdate>2014.06.26</firsteventdate></chapter>
+            <chapter><chapterid>117679563240292641304</chapterid><city>Karu</city><chaptername>Bingham University</chaptername><firsteventdate>2014.05.23</firsteventdate></chapter>
+            <chapter><chapterid>104102236676361936871</chapterid><city>Calabar</city><chaptername>Calabar</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>114555373889705824895</chapterid><city>Ota</city><chaptername>Covenant University</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>101935040036552145645</chapterid><city>Ado Ekiti</city><chaptername>Ekiti State University</chaptername><firsteventdate>2014.09.03</firsteventdate></chapter>
+            <chapter><chapterid>107982492044424122264</chapterid><city>Enugu</city><chaptername>Enugu</chaptername><firsteventdate>2014.05.16</firsteventdate></chapter>
+            <chapter><chapterid>103664297074109377242</chapterid><city>Abeokuta</city><chaptername>FUNAAB</chaptername><firsteventdate>2014.12.08</firsteventdate></chapter>
+            <chapter><chapterid>110365454932242208229</chapterid><city>Dutse</city><chaptername>Federal University Dutse</chaptername><firsteventdate>2015.03.17</firsteventdate></chapter>
+            <chapter><chapterid>105266058056270635109</chapterid><city>Dutse</city><chaptername>Federal University Dutse</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>109813433389926474050</chapterid><city>Ibadan</city><chaptername>Ibadan</chaptername><firsteventdate>2014.05.03</firsteventdate></chapter>
+            <chapter><chapterid>107415840199830484575</chapterid><city>Kazaure</city><chaptername>JSIIT</chaptername><firsteventdate>2014.10.24</firsteventdate></chapter>
+            <chapter><chapterid>100822278527605598097</chapterid><city>Kaduna</city><chaptername>Kaduna</chaptername><firsteventdate>2013.09.26</firsteventdate></chapter>
+            <chapter><chapterid>115104800342352806608</chapterid><city>Kaduna</city><chaptername>Kaduna State University</chaptername><firsteventdate>2014.11.29</firsteventdate></chapter>
+            <chapter><chapterid>102360788478802698105</chapterid><city>Kano</city><chaptername>Kano</chaptername><firsteventdate>2013.06.22</firsteventdate></chapter>
+            <chapter><chapterid>113126840596771190532</chapterid><city>Katsina</city><chaptername>Katsina</chaptername><firsteventdate>2016.05.08</firsteventdate></chapter>
+            <chapter><chapterid>115846222497242868131</chapterid><city>Ogbomoso</city><chaptername>LAUTECH</chaptername><firsteventdate>2013.11.20</firsteventdate></chapter>
+            <chapter><chapterid>118120768718238554452</chapterid><city>Lafia</city><chaptername>Lafia</chaptername><firsteventdate>2014.06.09</firsteventdate></chapter>
+            <chapter><chapterid>112227844855698647164</chapterid><city>Lagos</city><chaptername>Lagos</chaptername><firsteventdate>2011.02.03</firsteventdate></chapter>
+            <chapter><chapterid>113224920428716041640</chapterid><city>Minna</city><chaptername>Minna</chaptername><firsteventdate>2014.09.25</firsteventdate></chapter>
+            <chapter><chapterid>104886926277267817835</chapterid><city>Kano</city><chaptername>NWU</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>101734499420085633662</chapterid><city>Anambra</city><chaptername>Njikoka</chaptername><firsteventdate>2015.02.09</firsteventdate></chapter>
+            <chapter><chapterid>117566302802057841704</chapterid><city>Ife</city><chaptername>OAU</chaptername><firsteventdate>2012.10.18</firsteventdate></chapter>
+            <chapter><chapterid>106762920676551984831</chapterid><city>Oko</city><chaptername>Oko</chaptername><firsteventdate>2015.01.29</firsteventdate></chapter>
+            <chapter><chapterid>112463467121964629262</chapterid><city>Osogbo</city><chaptername>Osogbo</chaptername><firsteventdate>2016.05.14</firsteventdate></chapter>
+            <chapter><chapterid>100461466728650662561</chapterid><city>Port Harcourt</city><chaptername>Port Harcourt</chaptername><firsteventdate>2014.07.12</firsteventdate></chapter>
+            <chapter><chapterid>111066140250821135492</chapterid><city>Taraba</city><chaptername>Taraba</chaptername><firsteventdate>2014.09.27</firsteventdate></chapter>
+            <chapter><chapterid>103213619815541904969</chapterid><city>Nsukka</city><chaptername>UNN</chaptername><firsteventdate>2014.05.28</firsteventdate></chapter>
+            <chapter><chapterid>114875347726232723618</chapterid><city>Yaba</city><chaptername>Unilag</chaptername><firsteventdate>2014.05.28</firsteventdate></chapter>
+            <chapter><chapterid>114945869531196995296</chapterid><city>Ilorin</city><chaptername>Unilorin</chaptername><firsteventdate>2013.11.13</firsteventdate></chapter>
+            <chapter><chapterid>105190723223310235866</chapterid><city>Uyo</city><chaptername>Uyo</chaptername><firsteventdate>2011.11.05</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Norway</countryname>
+        <countryid>no</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>107292324435156848170</chapterid><city>Bergen</city><chaptername>Bergen</chaptername><firsteventdate>2014.10.10</firsteventdate></chapter>
+            <chapter><chapterid>113962199449694311661</chapterid><city>Oslo</city><chaptername>Oslo</chaptername><firsteventdate>2012.12.05</firsteventdate></chapter>
+            <chapter><chapterid>101944659089375424466</chapterid><city>Trondheim</city><chaptername>Trondheim</chaptername><firsteventdate>2013.01.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Pakistan</countryname>
+        <countryid>pk</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>105183115622354692760</chapterid><city>Islamabad</city><chaptername>Islamabad (Margalla)</chaptername><firsteventdate>2014.02.20</firsteventdate></chapter>
+            <chapter><chapterid>104623905407895992587</chapterid><city>Karachi</city><chaptername>Karachi</chaptername><firsteventdate>2011.09.21</firsteventdate></chapter>
+            <chapter><chapterid>103213081527235087923</chapterid><city>Lahore</city><chaptername>Lahore</chaptername><firsteventdate>2012.12.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Palestine</countryname>
+        <countryid>ps</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>116730078253386044390</chapterid><city>Gaza</city><chaptername>Gaza</chaptername><firsteventdate>2013.02.07</firsteventdate></chapter>
+            <chapter><chapterid>105147100639812067405</chapterid><city>Nablus</city><chaptername>Nablus</chaptername><firsteventdate>2011.10.02</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Panama</countryname>
+        <countryid>pa</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>114236368833841441665</chapterid><city>Panama City</city><chaptername>Panama City</chaptername><firsteventdate>2013.05.03</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Papua New Guinea</countryname>
+        <countryid>pg</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>101343249219699029221</chapterid><city>Lae</city><chaptername>Lae PNG</chaptername><firsteventdate>2013.12.05</firsteventdate></chapter>
+            <chapter><chapterid>106840051712296332154</chapterid><city>Port Moresby</city><chaptername>Port Moresby</chaptername><firsteventdate>2014.05.02</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Paraguay</countryname>
+        <countryid>py</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>110818407265166727278</chapterid><city>Asuncion</city><chaptername>Asunción</chaptername><firsteventdate>2015.07.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Peru</countryname>
+        <countryid>pe</countryid>
+        <number>9</number>
+        <chapters>
+            <chapter><chapterid>117950001026140632430</chapterid><city>Arequipa</city><chaptername>Arequipa</chaptername><firsteventdate>2013.04.05</firsteventdate></chapter>
+            <chapter><chapterid>114638846192751581411</chapterid><city>Chiclayo</city><chaptername>Chiclayo</chaptername><firsteventdate>2013.11.09</firsteventdate></chapter>
+            <chapter><chapterid>116392985752134860042</chapterid><city>Cusco</city><chaptername>Cusco</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>107753219137168808972</chapterid><city>Ica</city><chaptername>Ica</chaptername><firsteventdate>2016.02.05</firsteventdate></chapter>
+            <chapter><chapterid>102722169890573186657</chapterid><city>Juliaca</city><chaptername>Juliaca</chaptername><firsteventdate>2013.04.09</firsteventdate></chapter>
+            <chapter><chapterid>110122706499918118028</chapterid><city>Lima</city><chaptername>Lima</chaptername><firsteventdate>2012.12.08</firsteventdate></chapter>
+            <chapter><chapterid>116021360471772072148</chapterid><city>Lima</city><chaptername>Open Lima</chaptername><firsteventdate>2013.07.13</firsteventdate></chapter>
+            <chapter><chapterid>110871378704297111344</chapterid><city>Piura</city><chaptername>Piura</chaptername><firsteventdate>2013.10.29</firsteventdate></chapter>
+            <chapter><chapterid>108383858320169753022</chapterid><city>Lima</city><chaptername>Women Lima</chaptername><firsteventdate>2014.03.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Philippines</countryname>
+        <countryid>ph</countryid>
+        <number>8</number>
+        <chapters>
+            <chapter><chapterid>111881770223033262444</chapterid><city>Bacolod</city><chaptername>Bacolod</chaptername><firsteventdate>2011.09.17</firsteventdate></chapter>
+            <chapter><chapterid>111137079504396580440</chapterid><city>Baguio</city><chaptername>Baguio</chaptername><firsteventdate>2012.06.16</firsteventdate></chapter>
+            <chapter><chapterid>109777245615877849664</chapterid><city>Cagayan De Oro</city><chaptername>Cagayan de Oro</chaptername><firsteventdate>2013.01.26</firsteventdate></chapter>
+            <chapter><chapterid>116488685812814512345</chapterid><city>Cebu</city><chaptername>Cebu</chaptername><firsteventdate>2012.09.29</firsteventdate></chapter>
+            <chapter><chapterid>105456972621599447153</chapterid><city>Davao City</city><chaptername>Davao</chaptername><firsteventdate>2010.08.14</firsteventdate></chapter>
+            <chapter><chapterid>111624169093759630469</chapterid><city>Bontoc</city><chaptername>Halsema</chaptername><firsteventdate>2013.01.16</firsteventdate></chapter>
+            <chapter><chapterid>105750470224587854845</chapterid><city>Manila</city><chaptername>Philippines</chaptername><firsteventdate>2009.07.03</firsteventdate></chapter>
+            <chapter><chapterid>102615103919428587748</chapterid><city>Zamboanga City</city><chaptername>Zamboanga</chaptername><firsteventdate>2010.08.22</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Poland</countryname>
+        <countryid>pl</countryid>
+        <number>4</number>
+        <chapters>
+            <chapter><chapterid>107562802227561437057</chapterid><city>Krakow</city><chaptername>Kraków</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+            <chapter><chapterid>107613176274258588105</chapterid><city>Lublin</city><chaptername>Lublin</chaptername><firsteventdate>2015.11.18</firsteventdate></chapter>
+            <chapter><chapterid>109899465967689104804</chapterid><city>Rzeszow</city><chaptername>Rzeszów</chaptername><firsteventdate>2016.03.09</firsteventdate></chapter>
+            <chapter><chapterid>105909141177271768718</chapterid><city>Warsaw</city><chaptername>Warsaw</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Portugal</countryname>
+        <countryid>pt</countryid>
+        <number>4</number>
+        <chapters>
+            <chapter><chapterid>114610816112896399994</chapterid><city>Lagoa, Sao Miguel</city><chaptername>Azores</chaptername><firsteventdate>2014.02.21</firsteventdate></chapter>
+            <chapter><chapterid>103689036662302611912</chapterid><city>Coimbra</city><chaptername>Coimbra</chaptername><firsteventdate>2015.12.12</firsteventdate></chapter>
+            <chapter><chapterid>105135300456431065608</chapterid><city>Lisbon</city><chaptername>Lisbon</chaptername><firsteventdate>2010.07.06</firsteventdate></chapter>
+            <chapter><chapterid>108439465690358116375</chapterid><city>Porto</city><chaptername>Porto</chaptername><firsteventdate>2015.07.08</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Qatar</countryname>
+        <countryid>qa</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>112374989197919589656</chapterid><city>Doha</city><chaptername>Doha</chaptername><firsteventdate>2015.05.18</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Romania</countryname>
+        <countryid>ro</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>112968068864186499076</chapterid><city>Bucharest</city><chaptername>Bucharest</chaptername><firsteventdate>2010.03.02</firsteventdate></chapter>
+            <chapter><chapterid>110300482287055515286</chapterid><city>Cluj-Napoca</city><chaptername>Cluj-Napoca</chaptername><firsteventdate>2011.12.10</firsteventdate></chapter>
+            <chapter><chapterid>111704918612718501013</chapterid><city>Pitesti</city><chaptername>Pitesti</chaptername><firsteventdate>2015.09.03</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Russia</countryname>
+        <countryid>ru</countryid>
+        <number>20</number>
+        <chapters>
+            <chapter><chapterid>110347086246542331572</chapterid><city>Chelyabinsk</city><chaptername>Chelyabinsk</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>114084643357707707218</chapterid><city>Ekaterinburg</city><chaptername>Ekaterinburg</chaptername><firsteventdate>2015.04.15</firsteventdate></chapter>
+            <chapter><chapterid>115157977025399922036</chapterid><city>Kaliningrad</city><chaptername>Kaliningrad</chaptername><firsteventdate>2015.12.12</firsteventdate></chapter>
+            <chapter><chapterid>103759944477186385508</chapterid><city>Kazan</city><chaptername>Kazan</chaptername><firsteventdate>2015.09.18</firsteventdate></chapter>
+            <chapter><chapterid>107073124486544240923</chapterid><city>Krasnodar</city><chaptername>Krasnodar</chaptername><firsteventdate>2014.10.11</firsteventdate></chapter>
+            <chapter><chapterid>113838045147596974488</chapterid><city>Krasnoyarsk</city><chaptername>Krasnoyarsk</chaptername><firsteventdate>2015.12.12</firsteventdate></chapter>
+            <chapter><chapterid>114277365007836832886</chapterid><city>Moscow</city><chaptername>Moscow</chaptername><firsteventdate>2010.09.08</firsteventdate></chapter>
+            <chapter><chapterid>102984308316739752534</chapterid><city>Nizhny Novgorod</city><chaptername>Nizhny Novgorod</chaptername><firsteventdate>2015.05.21</firsteventdate></chapter>
+            <chapter><chapterid>103188123524222454109</chapterid><city>Novosibirsk</city><chaptername>Novosibirsk</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>102520175692033125056</chapterid><city>Omsk</city><chaptername>Omsk</chaptername><firsteventdate>2011.05.11</firsteventdate></chapter>
+            <chapter><chapterid>103291561487175141612</chapterid><city>Perm</city><chaptername>Perm</chaptername><firsteventdate>2014.12.12</firsteventdate></chapter>
+            <chapter><chapterid>117748799890468607940</chapterid><city>Petrozavodsk</city><chaptername>Petrozavodsk</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>109283145732466218180</chapterid><city>Rostov-on-Don</city><chaptername>Rostov</chaptername><firsteventdate>2015.10.31</firsteventdate></chapter>
+            <chapter><chapterid>114231492719080650020</chapterid><city>Ryazan</city><chaptername>Ryazan</chaptername><firsteventdate>2015.06.07</firsteventdate></chapter>
+            <chapter><chapterid>108102967741567896095</chapterid><city>Samara</city><chaptername>Samara</chaptername><firsteventdate>2015.12.19</firsteventdate></chapter>
+            <chapter><chapterid>117084547901054054029</chapterid><city>Saints Petersburg</city><chaptername>St. Petersburg</chaptername><firsteventdate>2016.03.01</firsteventdate></chapter>
+            <chapter><chapterid>104865069081866598581</chapterid><city>Saint Petersburg</city><chaptername>St. Petersburg</chaptername><firsteventdate>2010.02.24</firsteventdate></chapter>
+            <chapter><chapterid>111516596556065937152</chapterid><city>Ulan-Ude</city><chaptername>Ulan-Ude</chaptername><firsteventdate>2016.08.02</firsteventdate></chapter>
+            <chapter><chapterid>111296124416472566115</chapterid><city>Vladivostok</city><chaptername>Vladivostok</chaptername><firsteventdate>2015.04.04</firsteventdate></chapter>
+            <chapter><chapterid>115788303479220573295</chapterid><city>Voronezh</city><chaptername>Voronezh</chaptername><firsteventdate>2010.01.29</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Saudi Arabia</countryname>
+        <countryid>sa</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>107457519240973887317</chapterid><city>Jeddah</city><chaptername>Jeddah</chaptername><firsteventdate>2011.06.15</firsteventdate></chapter>
+            <chapter><chapterid>112110553673832320313</chapterid><city>Riyadh</city><chaptername>Riyadh</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Senegal</countryname>
+        <countryid>sn</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>107348863310258936561</chapterid><city>Dakar</city><chaptername>Dakar</chaptername><firsteventdate>2012.01.14</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Sierra Leone</countryname>
+        <countryid>sl</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>110791419077086314566</chapterid><city>Freetown</city><chaptername>Freetown</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Singapore</countryname>
+        <countryid>sg</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>104039540126619554508</chapterid><city>Singapore</city><chaptername>Singapore</chaptername><firsteventdate>2009.08.29</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Slovakia</countryname>
+        <countryid>sk</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>115200570829527654069</chapterid><city>Bratislava</city><chaptername>Bratislava</chaptername><firsteventdate>2009.06.30</firsteventdate></chapter>
+            <chapter><chapterid>108346197166929309455</chapterid><city>Kosice</city><chaptername>Kosice</chaptername><firsteventdate>2012.06.27</firsteventdate></chapter>
+            <chapter><chapterid>103280667737160014426</chapterid><city>Poprad</city><chaptername>Poprad-Tatry</chaptername><firsteventdate>2013.07.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>South Africa</countryname>
+        <countryid>za</countryid>
+        <number>10</number>
+        <chapters>
+            <chapter><chapterid>109648253882179122227</chapterid><city>Cape Town</city><chaptername>Cape Flats</chaptername><firsteventdate>2014.08.02</firsteventdate></chapter>
+            <chapter><chapterid>108309780217630451504</chapterid><city>Cape Town</city><chaptername>Cape Town</chaptername><firsteventdate>2011.05.03</firsteventdate></chapter>
+            <chapter><chapterid>109992872979604856516</chapterid><city>Durban</city><chaptername>Durban</chaptername><firsteventdate>2014.11.07</firsteventdate></chapter>
+            <chapter><chapterid>102185667048205980695</chapterid><city>Johannesburg</city><chaptername>Johannesburg</chaptername><firsteventdate>2011.02.05</firsteventdate></chapter>
+            <chapter><chapterid>113522614396539294137</chapterid><city>Cape Town</city><chaptername>Khayelitsha</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103727427119387878042</chapterid><city>Port Elizabeth</city><chaptername>Port Elizabeth</chaptername><firsteventdate>2014.11.14</firsteventdate></chapter>
+            <chapter><chapterid>117599647232533838312</chapterid><city>Pretoria</city><chaptername>Pretoria</chaptername><firsteventdate>2013.02.15</firsteventdate></chapter>
+            <chapter><chapterid>105313604237845748856/</chapterid><city>Cape Town</city><chaptername>UCT</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>107385433121528193142</chapterid><city>Vanderbiljpark</city><chaptername>VUT</chaptername><firsteventdate>2014.03.08</firsteventdate></chapter>
+            <chapter><chapterid>106505752730493822675</chapterid><city>Johannesburg</city><chaptername>Wits</chaptername><firsteventdate>2013.05.08</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>South Korea</countryname>
+        <countryid>kr</countryid>
+        <number>9</number>
+        <chapters>
+            <chapter><chapterid>112760983812496457564</chapterid><city>Busan</city><chaptername>Busan</chaptername><firsteventdate>2013.02.13</firsteventdate></chapter>
+            <chapter><chapterid>102667177107352156304</chapterid><city>Cheonan</city><chaptername>Cheonan&amp;Asan</chaptername><firsteventdate>2013.11.07</firsteventdate></chapter>
+            <chapter><chapterid>104016865264341661281</chapterid><city>Incheon</city><chaptername>Incheon</chaptername><firsteventdate>2013.04.06</firsteventdate></chapter>
+            <chapter><chapterid>115078626730671785458</chapterid><city>Seoul</city><chaptername>Korea Android</chaptername><firsteventdate>2012.06.19</firsteventdate></chapter>
+            <chapter><chapterid>113669764989775524467</chapterid><city>Seoul</city><chaptername>Korea Cloud</chaptername><firsteventdate>2014.05.28</firsteventdate></chapter>
+            <chapter><chapterid>112714242728066184635</chapterid><city>Bucheon</city><chaptername>Korea Golang</chaptername><firsteventdate>2013.01.25</firsteventdate></chapter>
+            <chapter><chapterid>111126730890028720234</chapterid><city>Seongnam</city><chaptername>Korea WebTech</chaptername><firsteventdate>2013.01.16</firsteventdate></chapter>
+            <chapter><chapterid>116593433820963567116</chapterid><city>Seoul</city><chaptername>Seoul</chaptername><firsteventdate>2012.03.14</firsteventdate></chapter>
+            <chapter><chapterid>100263126816983481169</chapterid><city>Seoul</city><chaptername>Soongsil University</chaptername><firsteventdate>2012.08.17</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Spain</countryname>
+        <countryid>es</countryid>
+        <number>33</number>
+        <chapters>
+            <chapter><chapterid>102621042210157682440</chapterid><city>Albacete</city><chaptername>Albacete</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>100779332357161488372</chapterid><city>Almeria</city><chaptername>Almeria</chaptername><firsteventdate>2014.10.25</firsteventdate></chapter>
+            <chapter><chapterid>101359474493518761310</chapterid><city>Asturias</city><chaptername>Asturias</chaptername><firsteventdate>2015.03.10</firsteventdate></chapter>
+            <chapter><chapterid>103861605362659114750</chapterid><city>Barcelona</city><chaptername>Barcelona</chaptername><firsteventdate>2009.06.27</firsteventdate></chapter>
+            <chapter><chapterid>112983420398182870109</chapterid><city>Bilbao</city><chaptername>Bilbao</chaptername><firsteventdate>2013.07.13</firsteventdate></chapter>
+            <chapter><chapterid>105194801788903823438</chapterid><city>Burgos</city><chaptername>Burgos</chaptername><firsteventdate>2015.03.04</firsteventdate></chapter>
+            <chapter><chapterid>108304194216355971829</chapterid><city>Castellon</city><chaptername>Castellón</chaptername><firsteventdate>2014.10.23</firsteventdate></chapter>
+            <chapter><chapterid>106429748600150466310</chapterid><city>Ciudad Real</city><chaptername>Ciudad Real</chaptername><firsteventdate>2014.07.17</firsteventdate></chapter>
+            <chapter><chapterid>110029291185137285136</chapterid><city>Caceres</city><chaptername>Cáceres</chaptername><firsteventdate>2015.02.05</firsteventdate></chapter>
+            <chapter><chapterid>112866714526515716260</chapterid><city>Cádiz</city><chaptername>Cádiz</chaptername><firsteventdate>2014.08.07</firsteventdate></chapter>
+            <chapter><chapterid>106302567584201009963</chapterid><city>Cordoba</city><chaptername>Córdoba</chaptername><firsteventdate>2014.04.24</firsteventdate></chapter>
+            <chapter><chapterid>101057782603674264562</chapterid><city>Girona</city><chaptername>Girona</chaptername><firsteventdate>2016.05.18</firsteventdate></chapter>
+            <chapter><chapterid>118027875298659982093</chapterid><city>Las Palmas de Gran Canaria</city><chaptername>Gran Canaria</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>107621838547829286968</chapterid><city>Granada</city><chaptername>Granada</chaptername><firsteventdate>2012.12.18</firsteventdate></chapter>
+            <chapter><chapterid>116243063925737679471</chapterid><city>Spain</city><chaptername>Jaen</chaptername><firsteventdate>2015.03.13</firsteventdate></chapter>
+            <chapter><chapterid>110167920940975646358</chapterid><city>La Coruna</city><chaptername>La Coruña</chaptername><firsteventdate>2014.06.26</firsteventdate></chapter>
+            <chapter><chapterid>101689243642302717268</chapterid><city>Santa Cruz de La Palma</city><chaptername>La Palma</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>107567067338388204476</chapterid><city>Logrono</city><chaptername>La Rioja</chaptername><firsteventdate>2013.08.31</firsteventdate></chapter>
+            <chapter><chapterid>107962088655881499591</chapterid><city>Lleida</city><chaptername>Lleida</chaptername><firsteventdate>2013.07.06</firsteventdate></chapter>
+            <chapter><chapterid>112952310970563894279</chapterid><city>Madrid</city><chaptername>Madrid</chaptername><firsteventdate>2010.06.24</firsteventdate></chapter>
+            <chapter><chapterid>101769406777537927870</chapterid><city>Mallorca</city><chaptername>Mallorca</chaptername><firsteventdate>2013.02.20</firsteventdate></chapter>
+            <chapter><chapterid>100839678049320757129</chapterid><city>Mahon</city><chaptername>Menorca</chaptername><firsteventdate>2015.11.16</firsteventdate></chapter>
+            <chapter><chapterid>107657001882433902492</chapterid><city>Murcia</city><chaptername>Murcia</chaptername><firsteventdate>2011.03.05</firsteventdate></chapter>
+            <chapter><chapterid>105524274802890643642</chapterid><city>Malaga</city><chaptername>Málaga</chaptername><firsteventdate>2011.05.10</firsteventdate></chapter>
+            <chapter><chapterid>110532659286437537057</chapterid><city>Ourense</city><chaptername>Ourense</chaptername><firsteventdate>2014.09.25</firsteventdate></chapter>
+            <chapter><chapterid>107931642576280918674</chapterid><city>Salamanca</city><chaptername>Salamanca</chaptername><firsteventdate>2014.04.01</firsteventdate></chapter>
+            <chapter><chapterid>106226686422101121625</chapterid><city>Santiago de Compostela</city><chaptername>Santiago</chaptername><firsteventdate>2014.04.24</firsteventdate></chapter>
+            <chapter><chapterid>117186888160178861350</chapterid><city>Sevilla</city><chaptername>Sevilla</chaptername><firsteventdate>2013.06.17</firsteventdate></chapter>
+            <chapter><chapterid>110881000795710392242</chapterid><city>Tarragona</city><chaptername>Tarragona</chaptername><firsteventdate>2012.10.06</firsteventdate></chapter>
+            <chapter><chapterid>114098393732890092873</chapterid><city>Santa Cruz de Tenerife</city><chaptername>Tenerife</chaptername><firsteventdate>2013.06.08</firsteventdate></chapter>
+            <chapter><chapterid>116293275669380237550</chapterid><city>Valencia</city><chaptername>Valencia</chaptername><firsteventdate>2012.10.26</firsteventdate></chapter>
+            <chapter><chapterid>106284181570326060854</chapterid><city>Vigo</city><chaptername>Vigo</chaptername><firsteventdate>2012.11.02</firsteventdate></chapter>
+            <chapter><chapterid>112270092409297528723</chapterid><city>Zaragoza</city><chaptername>Zaragoza</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Sri Lanka</countryname>
+        <countryid>lk</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>118444516760608140335</chapterid><city>Colombo</city><chaptername>Sri Lanka</chaptername><firsteventdate>2010.05.04</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Sweden</countryname>
+        <countryid>se</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>106025196160710546713</chapterid><city>Stockholm</city><chaptername>Stockholm</chaptername><firsteventdate>2009.11.05</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Switzerland</countryname>
+        <countryid>ch</countryid>
+        <number>4</number>
+        <chapters>
+            <chapter><chapterid>104796338340371914914</chapterid><city>Basel</city><chaptername>Basel</chaptername><firsteventdate>2014.08.13</firsteventdate></chapter>
+            <chapter><chapterid>102886547280518367914</chapterid><city>Fribourg</city><chaptername>Fribourg</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>110048484404822139382</chapterid><city>Geneva</city><chaptername>Geneva</chaptername><firsteventdate>2016.02.12</firsteventdate></chapter>
+            <chapter><chapterid>117715978948849333403</chapterid><city>Zurich</city><chaptername>Zürich</chaptername><firsteventdate>2011.06.08</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Taiwan</countryname>
+        <countryid>tw</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>102856404121776431606</chapterid><city>Taipei</city><chaptername>Taipei</chaptername><firsteventdate>2009.10.14</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Tanzania</countryname>
+        <countryid>tz</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>113901864922964546168</chapterid><city>Mwanza</city><chaptername>Mwanza</chaptername><firsteventdate>2013.09.19</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Thailand</countryname>
+        <countryid>th</countryid>
+        <number>5</number>
+        <chapters>
+            <chapter><chapterid>111754721762299319444</chapterid><city>Chiang Mai</city><chaptername>Chiang Mai</chaptername><firsteventdate>2013.05.15</firsteventdate></chapter>
+            <chapter><chapterid>116721319688961508244</chapterid><city>Khon Kaen</city><chaptername>Khon Kaen</chaptername><firsteventdate>2013.08.17</firsteventdate></chapter>
+            <chapter><chapterid>107850642716394364694</chapterid><city>Phitsanulok</city><chaptername>Phitsanulok</chaptername><firsteventdate>2009.05.23</firsteventdate></chapter>
+            <chapter><chapterid>100349148313707622593</chapterid><city>Sriracha</city><chaptername>Sriracha</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>106701299960858507430</chapterid><city>Bangkok</city><chaptername>Thailand</chaptername><firsteventdate>2012.01.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>The Gambia</countryname>
+        <countryid>gm</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>107965755545156496621</chapterid><city>Banjul</city><chaptername>Gambia</chaptername><firsteventdate>2011.12.28</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Togo</countryname>
+        <countryid>tg</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>100968613806607410565</chapterid><city>Lome</city><chaptername>Lome</chaptername><firsteventdate>2012.12.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Tunisia</countryname>
+        <countryid>tn</countryid>
+        <number>12</number>
+        <chapters>
+            <chapter><chapterid>114860148921100610396</chapterid><city>Beja</city><chaptername>Beja</chaptername><firsteventdate>2013.09.03</firsteventdate></chapter>
+            <chapter><chapterid>102300301759143791078</chapterid><city>Bizerte</city><chaptername>Bizerte</chaptername><firsteventdate>2013.05.19</firsteventdate></chapter>
+            <chapter><chapterid>108066827907430844949</chapterid><city>Carthage</city><chaptername>Carthage</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>109438697599228951296</chapterid><city>Tunis</city><chaptername>ENSI</chaptername><firsteventdate>2016.02.11</firsteventdate></chapter>
+            <chapter><chapterid>102315261968126189906</chapterid><city>Gabes</city><chaptername>Gabes</chaptername><firsteventdate>2012.12.01</firsteventdate></chapter>
+            <chapter><chapterid>113381420771870712911</chapterid><city>Al-Qayrawan</city><chaptername>Kairouan</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103293774099802943268</chapterid><city>La Manouba</city><chaptername>Manouba</chaptername><firsteventdate>2013.01.12</firsteventdate></chapter>
+            <chapter><chapterid>108682499289711006315</chapterid><city>Medenine</city><chaptername>Medenine</chaptername><firsteventdate>2014.06.07</firsteventdate></chapter>
+            <chapter><chapterid>103429150782052657644</chapterid><city>Monastir</city><chaptername>Monastir</chaptername><firsteventdate>2014.04.10</firsteventdate></chapter>
+            <chapter><chapterid>110277621604181263838</chapterid><city>Sfax</city><chaptername>Sfax</chaptername><firsteventdate>2013.03.13</firsteventdate></chapter>
+            <chapter><chapterid>101281981512157769860</chapterid><city>Sousse</city><chaptername>Sousse</chaptername><firsteventdate>2013.12.07</firsteventdate></chapter>
+            <chapter><chapterid>111082770720976612303</chapterid><city>Tunis</city><chaptername>Tunis</chaptername><firsteventdate>2011.07.13</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Turkey</countryname>
+        <countryid>tr</countryid>
+        <number>15</number>
+        <chapters>
+            <chapter><chapterid>101924316245280751971</chapterid><city>Adana</city><chaptername>Adana</chaptername><firsteventdate>2016.07.24</firsteventdate></chapter>
+            <chapter><chapterid>114568591151316164517</chapterid><city>Ankara</city><chaptername>Ankara</chaptername><firsteventdate>2011.05.06</firsteventdate></chapter>
+            <chapter><chapterid>108715317374896436918</chapterid><city>Bolu</city><chaptername>Bolu</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>112426049448823703709</chapterid><city>Duzce</city><chaptername>Düzce</chaptername><firsteventdate>2014.10.22</firsteventdate></chapter>
+            <chapter><chapterid>107822930239527344614</chapterid><city>Edirne</city><chaptername>Edirne</chaptername><firsteventdate>2015.12.10</firsteventdate></chapter>
+            <chapter><chapterid>115602346615910585045</chapterid><city>Eskisehir</city><chaptername>Eskişehir</chaptername><firsteventdate>2013.01.31</firsteventdate></chapter>
+            <chapter><chapterid>106312121332431306403</chapterid><city>Isparta</city><chaptername>Isparta</chaptername><firsteventdate>2014.11.03</firsteventdate></chapter>
+            <chapter><chapterid>100514812580249787371</chapterid><city>Istanbul</city><chaptername>Istanbul</chaptername><firsteventdate>2010.12.04</firsteventdate></chapter>
+            <chapter><chapterid>111999572855436352657</chapterid><city>Izmir</city><chaptername>Izmir</chaptername><firsteventdate>2014.11.30</firsteventdate></chapter>
+            <chapter><chapterid>118286677297711897348</chapterid><city>Kocaeli</city><chaptername>Kocaeli</chaptername><firsteventdate>2016.03.30</firsteventdate></chapter>
+            <chapter><chapterid>106259793223840835252</chapterid><city>Konya</city><chaptername>Konya</chaptername><firsteventdate>2013.03.09</firsteventdate></chapter>
+            <chapter><chapterid>105802599166520961861</chapterid><city>Kutahya</city><chaptername>Kütahya</chaptername><firsteventdate>2014.10.16</firsteventdate></chapter>
+            <chapter><chapterid>101286320088797470515</chapterid><city>Sivas</city><chaptername>Sivas</chaptername><firsteventdate>2014.12.01</firsteventdate></chapter>
+            <chapter><chapterid>101591578664230961035</chapterid><city>Tekirdag</city><chaptername>Tekirdağ</chaptername><firsteventdate>2015.03.10</firsteventdate></chapter>
+            <chapter><chapterid>103505907743457614691</chapterid><city>Trabzon</city><chaptername>Trabzon</chaptername><firsteventdate>2015.10.24</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Uganda</countryname>
+        <countryid>ug</countryid>
+        <number>14</number>
+        <chapters>
+            <chapter><chapterid>111838817416099422384</chapterid><city>Tororo</city><chaptername>Busitema</chaptername><firsteventdate>2013.03.01</firsteventdate></chapter>
+            <chapter><chapterid>109902375049302599424</chapterid><city>Gulu</city><chaptername>Gulu</chaptername><firsteventdate>2013.10.19</firsteventdate></chapter>
+            <chapter><chapterid>109773910853768708434</chapterid><city>Hoima</city><chaptername>Hoima</chaptername><firsteventdate>2015.01.03</firsteventdate></chapter>
+            <chapter><chapterid>104128689228443567430</chapterid><city>Kampala</city><chaptername>IHSU</chaptername><firsteventdate>2014.02.20</firsteventdate></chapter>
+            <chapter><chapterid>102008102031100646602</chapterid><city>Kampala</city><chaptername>International University Of East Africa</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>108180703804185537320</chapterid><city>Jinja</city><chaptername>Jinja</chaptername><firsteventdate>2014.05.31</firsteventdate></chapter>
+            <chapter><chapterid>107215703956182292201</chapterid><city>Kampala</city><chaptername>Kampala</chaptername><firsteventdate>2010.03.27</firsteventdate></chapter>
+            <chapter><chapterid>117449242055602958244</chapterid><city>Kampala</city><chaptername>MUBS</chaptername><firsteventdate>2014.09.05</firsteventdate></chapter>
+            <chapter><chapterid>111272613539973122492</chapterid><city>Kampala</city><chaptername>Makerere</chaptername><firsteventdate>2010.08.20</firsteventdate></chapter>
+            <chapter><chapterid>110714037127010734147</chapterid><city>Mbale</city><chaptername>Mbale</chaptername><firsteventdate>2011.09.30</firsteventdate></chapter>
+            <chapter><chapterid>110391140569788670287</chapterid><city>Mbarara</city><chaptername>Mbarara</chaptername><firsteventdate>2013.09.13</firsteventdate></chapter>
+            <chapter><chapterid>113950174210914888898</chapterid><city>Mukono</city><chaptername>Mukono</chaptername><firsteventdate>2013.10.01</firsteventdate></chapter>
+            <chapter><chapterid>104400328660167590151</chapterid><city>Kampala</city><chaptername>SLAU</chaptername><firsteventdate>2014.04.11</firsteventdate></chapter>
+            <chapter><chapterid>108217555392256442794</chapterid><city>Mukono</city><chaptername>UCU</chaptername><firsteventdate>2013.10.26</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Ukraine</countryname>
+        <countryid>ua</countryid>
+        <number>14</number>
+        <chapters>
+            <chapter><chapterid>106245677365553946559</chapterid><city>Cherkassy</city><chaptername>Cherkassy</chaptername><firsteventdate>2013.02.23</firsteventdate></chapter>
+            <chapter><chapterid>106848183284949728131</chapterid><city>Chernivtsi</city><chaptername>Chernivtsi</chaptername><firsteventdate>2015.06.13</firsteventdate></chapter>
+            <chapter><chapterid>116033068768596939209</chapterid><city>Dnipropetrovsk</city><chaptername>Dnipropetrovsk</chaptername><firsteventdate>2010.08.13</firsteventdate></chapter>
+            <chapter><chapterid>112552585271162429493</chapterid><city>Ivano-Frankivs'k</city><chaptername>Ivano-Frankivs'k</chaptername><firsteventdate>2014.11.14</firsteventdate></chapter>
+            <chapter><chapterid>116061413353713362213</chapterid><city>Kyiv</city><chaptername>KPI</chaptername><firsteventdate>2014.04.12</firsteventdate></chapter>
+            <chapter><chapterid>111128531218682087950</chapterid><city>Khmelnytskyi</city><chaptername>Khmelnytskyi</chaptername><firsteventdate>2015.06.12</firsteventdate></chapter>
+            <chapter><chapterid>107464569258887658610</chapterid><city>Kremenchuk</city><chaptername>Kremenchuk</chaptername><firsteventdate>2014.10.19</firsteventdate></chapter>
+            <chapter><chapterid>110301321530950732281</chapterid><city>Kiev</city><chaptername>Kyiv-Center</chaptername><firsteventdate>2009.11.25</firsteventdate></chapter>
+            <chapter><chapterid>116514843672888419265</chapterid><city>Luhans'k</city><chaptername>Luhans'k</chaptername><firsteventdate>2012.11.10</firsteventdate></chapter>
+            <chapter><chapterid>102444623953913144164</chapterid><city>Lviv</city><chaptername>Lviv</chaptername><firsteventdate>2012.09.29</firsteventdate></chapter>
+            <chapter><chapterid>107429905367776958803</chapterid><city>Odessa</city><chaptername>Odessa</chaptername><firsteventdate>2012.10.16</firsteventdate></chapter>
+            <chapter><chapterid>116395840441189378236</chapterid><city>Poltava</city><chaptername>Poltava</chaptername><firsteventdate>2016.06.04</firsteventdate></chapter>
+            <chapter><chapterid>106848361510936329588</chapterid><city>Ternopil</city><chaptername>Ternopil</chaptername><firsteventdate>2015.07.22</firsteventdate></chapter>
+            <chapter><chapterid>111433667344566709274</chapterid><city>Uzhhorod</city><chaptername>Uzhhorod</chaptername><firsteventdate>2014.10.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>United Arab Emirates</countryname>
+        <countryid>ae</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>106757629995519629259</chapterid><city>Dubai</city><chaptername>BITS Pilani Dubai</chaptername><firsteventdate>2016.03.15</firsteventdate></chapter>
+            <chapter><chapterid>118224476608145518667</chapterid><city>Dubai</city><chaptername>Dubai</chaptername><firsteventdate>2010.12.20</firsteventdate></chapter>
+            <chapter><chapterid>114853679727880166293</chapterid><city>Sharjah</city><chaptername>Sharjah</chaptername><firsteventdate>2013.10.15</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>United Kingdom</countryname>
+        <countryid>gb</countryid>
+        <number>17</number>
+        <chapters>
+            <chapter><chapterid>117880769522295112261</chapterid><city>Belfast</city><chaptername>Belfast</chaptername><firsteventdate>2015.05.06</firsteventdate></chapter>
+            <chapter><chapterid>117505847738126440327</chapterid><city>Birmingham</city><chaptername>Birmingham</chaptername><firsteventdate>2015.01.22</firsteventdate></chapter>
+            <chapter><chapterid>102640656935714520849</chapterid><city>Bristol</city><chaptername>Bristol and Bath</chaptername><firsteventdate>2013.04.04</firsteventdate></chapter>
+            <chapter><chapterid>107401166860197038411</chapterid><city>Truro</city><chaptername>Cornwall</chaptername><firsteventdate>2015.05.28</firsteventdate></chapter>
+            <chapter><chapterid>102452522040440425612</chapterid><city>Edinburgh</city><chaptername>Edinburgh</chaptername><firsteventdate>2013.02.27</firsteventdate></chapter>
+            <chapter><chapterid>113909136687413413048</chapterid><city>London</city><chaptername>Greenwich</chaptername><firsteventdate>2015.03.12</firsteventdate></chapter>
+            <chapter><chapterid>116063230495147005076</chapterid><city>Basingstoke</city><chaptername>Hants &amp; Surrey</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>111151106745786303857</chapterid><city>Leamington Spa</city><chaptername>Leamington Spa</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103365248760053721950</chapterid><city>Leeds</city><chaptername>Leeds</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>103264412961099716315</chapterid><city>Leicester</city><chaptername>Leicester</chaptername><firsteventdate>2014.09.23</firsteventdate></chapter>
+            <chapter><chapterid>103739546500393048011</chapterid><city>Liverpool,</city><chaptername>Liverpool</chaptername><firsteventdate>2015.03.12</firsteventdate></chapter>
+            <chapter><chapterid>108855452729844077920</chapterid><city>London</city><chaptername>London</chaptername><firsteventdate>2009.09.11</firsteventdate></chapter>
+            <chapter><chapterid>102610386276694099636</chapterid><city>Manchester</city><chaptername>Manchester</chaptername><firsteventdate>2013.06.15</firsteventdate></chapter>
+            <chapter><chapterid>116811569224224344779</chapterid><city>Sunderland</city><chaptername>North East</chaptername><firsteventdate>2016.02.11</firsteventdate></chapter>
+            <chapter><chapterid>104973628081360399102</chapterid><city>Oxford</city><chaptername>Oxford</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>114875932755046206016</chapterid><city>Reading</city><chaptername>Reading and Thames Valley</chaptername><firsteventdate>2015.04.23</firsteventdate></chapter>
+            <chapter><chapterid>112846708178762943029</chapterid><city>Swindon</city><chaptername>South West</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>United States</countryname>
+        <countryid>us</countryid>
+        <number>88</number>
+        <chapters>
+            <chapter><chapterid>104324957573179054979</chapterid><city>Albuquerque</city><chaptername>Albuquerque</chaptername><firsteventdate>2012.10.20</firsteventdate></chapter>
+            <chapter><chapterid>105638061282002057162</chapterid><city>Ames</city><chaptername>Ames</chaptername><firsteventdate>2013.02.03</firsteventdate></chapter>
+            <chapter><chapterid>110231571550235664144</chapterid><city>Amherst</city><chaptername>Amherst</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>109660073988733626164</chapterid><city>Anchorage</city><chaptername>Anchorage</chaptername><firsteventdate>2014.10.10</firsteventdate></chapter>
+            <chapter><chapterid>112215001458553713484</chapterid><city>Ann Arbor</city><chaptername>Ann Arbor Android</chaptername><firsteventdate>2013.02.28</firsteventdate></chapter>
+            <chapter><chapterid>116177506899373607491</chapterid><city>Atlanta</city><chaptername>Atlanta</chaptername><firsteventdate>2013.06.20</firsteventdate></chapter>
+            <chapter><chapterid>117635509141852388558</chapterid><city>Austin</city><chaptername>Austin</chaptername><firsteventdate>2011.04.12</firsteventdate></chapter>
+            <chapter><chapterid>110756052249479910892</chapterid><city>Baltimore</city><chaptername>Baltimore</chaptername><firsteventdate>2013.12.15</firsteventdate></chapter>
+            <chapter><chapterid>101610403731547402007</chapterid><city>Bellevue</city><chaptername>Bellevue</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>106554249212421948611</chapterid><city>Berkeley</city><chaptername>Berkeley</chaptername><firsteventdate>2014.09.30</firsteventdate></chapter>
+            <chapter><chapterid>118316581436563732682</chapterid><city>Boise</city><chaptername>Boise</chaptername><firsteventdate>2016.02.04</firsteventdate></chapter>
+            <chapter><chapterid>104210617698082698436</chapterid><city>Boston</city><chaptername>Boston</chaptername><firsteventdate>2009.09.22</firsteventdate></chapter>
+            <chapter><chapterid>110545238773247324753</chapterid><city>Boulder</city><chaptername>Boulder</chaptername><firsteventdate>2014.01.17</firsteventdate></chapter>
+            <chapter><chapterid>116037427412552223914</chapterid><city>Bronx</city><chaptername>Bronx</chaptername><firsteventdate>2015.05.29</firsteventdate></chapter>
+            <chapter><chapterid>108106255897548082799</chapterid><city>Buffalo</city><chaptername>Buffalo</chaptername><firsteventdate>2014.02.07</firsteventdate></chapter>
+            <chapter><chapterid>107816152170727801113</chapterid><city>Albany</city><chaptername>Capital Region</chaptername><firsteventdate>2016.05.24</firsteventdate></chapter>
+            <chapter><chapterid>107120935444388089694</chapterid><city>Cedar Rapids</city><chaptername>Cedar Rapids</chaptername><firsteventdate>2014.09.30</firsteventdate></chapter>
+            <chapter><chapterid>103230977474494232033</chapterid><city>Kissimmee</city><chaptername>Central Florida</chaptername><firsteventdate>2014.01.20</firsteventdate></chapter>
+            <chapter><chapterid>101496338651470196997</chapterid><city></city><chaptername>Central Mississippi</chaptername><firsteventdate>2015.03.27</firsteventdate></chapter>
+            <chapter><chapterid>109632423700243597148</chapterid><city>Charlottesville</city><chaptername>Central Virginia</chaptername><firsteventdate>2015.04.07</firsteventdate></chapter>
+            <chapter><chapterid>117234778562306975670</chapterid><city>Charleston</city><chaptername>Charleston</chaptername><firsteventdate>2012.12.05</firsteventdate></chapter>
+            <chapter><chapterid>109569977861448640826</chapterid><city>Charlotte</city><chaptername>Charlotte</chaptername><firsteventdate>2015.06.01</firsteventdate></chapter>
+            <chapter><chapterid>116342852249328662050</chapterid><city>Chicago</city><chaptername>Chicago</chaptername><firsteventdate>2014.04.17</firsteventdate></chapter>
+            <chapter><chapterid>111851281564260689455</chapterid><city>Schaumburg</city><chaptername>Chicago West</chaptername><firsteventdate>2012.09.11</firsteventdate></chapter>
+            <chapter><chapterid>117137315626535078562</chapterid><city>Cincinnati</city><chaptername>Cincinnati</chaptername><firsteventdate>2013.02.20</firsteventdate></chapter>
+            <chapter><chapterid>105017433922288840934</chapterid><city>Columbia</city><chaptername>Columbia</chaptername><firsteventdate>2014.05.13</firsteventdate></chapter>
+            <chapter><chapterid>105576655990772027346</chapterid><city>Columbus</city><chaptername>Columbus</chaptername><firsteventdate>2012.08.16</firsteventdate></chapter>
+            <chapter><chapterid>106687878036827889323</chapterid><city>Dallas</city><chaptername>Dallas</chaptername><firsteventdate>2010.04.10</firsteventdate></chapter>
+            <chapter><chapterid>107789954104899034011</chapterid><city>Denver</city><chaptername>Denver</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>116487477821397039229</chapterid><city>Detroit</city><chaptername>Detroit</chaptername><firsteventdate>2012.01.26</firsteventdate></chapter>
+            <chapter><chapterid>107682656760746559369</chapterid><city>Fremont</city><chaptername>East Bay</chaptername><firsteventdate>2011.12.05</firsteventdate></chapter>
+            <chapter><chapterid>104257760864717818556</chapterid><city>Fremont</city><chaptername>East Bay</chaptername><firsteventdate>2016.01.14</firsteventdate></chapter>
+            <chapter><chapterid>107020167835930186914</chapterid><city>Spokane</city><chaptername>Eastern Washington</chaptername><firsteventdate>2014.09.12</firsteventdate></chapter>
+            <chapter><chapterid>114769570436363155784</chapterid><city>Fresno</city><chaptername>Fresno</chaptername><firsteventdate>2010.09.04</firsteventdate></chapter>
+            <chapter><chapterid>102911015778633923479</chapterid><city>Chattanooga</city><chaptername>Gigcity</chaptername><firsteventdate>2014.02.17</firsteventdate></chapter>
+            <chapter><chapterid>113573239350627723932</chapterid><city>Virginia Beach</city><chaptername>Hampton Roads</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>107327984577255595926</chapterid><city>Houston</city><chaptername>Houston</chaptername><firsteventdate>2012.11.15</firsteventdate></chapter>
+            <chapter><chapterid>116637480947982055865</chapterid><city>New Paltz</city><chaptername>Hudson Valley</chaptername><firsteventdate>2014.04.17</firsteventdate></chapter>
+            <chapter><chapterid>109630468411478574147</chapterid><city>Indianapolis</city><chaptername>Indy</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>116015988631052616691</chapterid><city>Kansas City</city><chaptername>Kansas City</chaptername><firsteventdate>2012.11.28</firsteventdate></chapter>
+            <chapter><chapterid>117264806348841923180</chapterid><city>Las Vegas</city><chaptername>Las Vegas</chaptername><firsteventdate>2013.09.25</firsteventdate></chapter>
+            <chapter><chapterid>101561695751862652895</chapterid><city>Los Angeles</city><chaptername>Los Angeles</chaptername><firsteventdate>2009.08.19</firsteventdate></chapter>
+            <chapter><chapterid>112571859084217911149</chapterid><city>Louisville</city><chaptername>Louisville</chaptername><firsteventdate>2016.01.07</firsteventdate></chapter>
+            <chapter><chapterid>101531296246680447894</chapterid><city>Macon</city><chaptername>Mercer University</chaptername><firsteventdate>2011.09.28</firsteventdate></chapter>
+            <chapter><chapterid>111439872924209508980</chapterid><city>Missoula</city><chaptername>Missoula</chaptername><firsteventdate>2012.10.25</firsteventdate></chapter>
+            <chapter><chapterid>115831812831073891815</chapterid><city>Modesto</city><chaptername>Modesto</chaptername><firsteventdate>2013.02.22</firsteventdate></chapter>
+            <chapter><chapterid>114349285984103462424</chapterid><city>Morgantown</city><chaptername>Morgantown</chaptername><firsteventdate>2014.07.23</firsteventdate></chapter>
+            <chapter><chapterid>105076625948887697816</chapterid><city>Muncie</city><chaptername>Muncie</chaptername><firsteventdate>2013.10.25</firsteventdate></chapter>
+            <chapter><chapterid>103388169671325157635</chapterid><city>Nashville</city><chaptername>Nashville</chaptername><firsteventdate>2012.10.03</firsteventdate></chapter>
+            <chapter><chapterid>106505407948352337138</chapterid><city>Manchester</city><chaptername>New Hampshire</chaptername><firsteventdate>2014.07.09</firsteventdate></chapter>
+            <chapter><chapterid>112584335094844154006</chapterid><city>New Haven</city><chaptername>New Haven</chaptername><firsteventdate>2014.02.09</firsteventdate></chapter>
+            <chapter><chapterid>102033742326416578905</chapterid><city>New York</city><chaptername>New York</chaptername><firsteventdate>2009.07.20</firsteventdate></chapter>
+            <chapter><chapterid>106607999783247090554</chapterid><city>Newark</city><chaptername>Newark</chaptername><firsteventdate>2013.07.23</firsteventdate></chapter>
+            <chapter><chapterid>114176644944100969729</chapterid><city>Montclair</city><chaptername>North Jersey</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>100148220005153084415</chapterid><city>Fort Collins</city><chaptername>Northern Colorado</chaptername><firsteventdate>2013.02.05</firsteventdate></chapter>
+            <chapter><chapterid>109596331895051634773</chapterid><city>Omaha</city><chaptername>Northwest Arkansas</chaptername><firsteventdate>2014.06.25</firsteventdate></chapter>
+            <chapter><chapterid>107681464801649598986</chapterid><city>Yukon</city><chaptername>OKC</chaptername><firsteventdate>2016.03.30</firsteventdate></chapter>
+            <chapter><chapterid>109062818916703314473</chapterid><city>Stillwater</city><chaptername>OSU Stillwater</chaptername><firsteventdate>2013.08.30</firsteventdate></chapter>
+            <chapter><chapterid>117677091518865462359</chapterid><city>Oakdale</city><chaptername>Oakdale</chaptername><firsteventdate>2014.06.04</firsteventdate></chapter>
+            <chapter><chapterid>103380167083743826129</chapterid><city>Omaha</city><chaptername>Omaha</chaptername><firsteventdate>2016.01.12</firsteventdate></chapter>
+            <chapter><chapterid>106989747428186351835</chapterid><city>Irvine</city><chaptername>Orange County</chaptername><firsteventdate>2012.11.07</firsteventdate></chapter>
+            <chapter><chapterid>105091992649170495173</chapterid><city>Portland</city><chaptername>PDX</chaptername><firsteventdate>2016.02.23</firsteventdate></chapter>
+            <chapter><chapterid>114727657292466806804</chapterid><city>Philadelphia</city><chaptername>Philadelphia</chaptername><firsteventdate>2013.06.26</firsteventdate></chapter>
+            <chapter><chapterid>107371179007921028529</chapterid><city>Phoenix</city><chaptername>Phoenix</chaptername><firsteventdate>2010.09.15</firsteventdate></chapter>
+            <chapter><chapterid>106016366999882079356</chapterid><city>Pittsburgh</city><chaptername>Pittsburgh</chaptername><firsteventdate>2014.01.28</firsteventdate></chapter>
+            <chapter><chapterid>105094997799540213377</chapterid><city>San Juan</city><chaptername>Puerto Rico</chaptername><firsteventdate>2015.08.04</firsteventdate></chapter>
+            <chapter><chapterid>100013133625300141137</chapterid><city>Redding</city><chaptername>Redding</chaptername><firsteventdate>2011.12.16</firsteventdate></chapter>
+            <chapter><chapterid>108577940252424736338</chapterid><city>Sacramento</city><chaptername>Sacramento</chaptername><firsteventdate>2010.05.13</firsteventdate></chapter>
+            <chapter><chapterid>106877905053562887075</chapterid><city>San Diego</city><chaptername>San Diego</chaptername><firsteventdate>2013.06.19</firsteventdate></chapter>
+            <chapter><chapterid>112827178820569405644</chapterid><city>San Francisco</city><chaptername>San Francisco</chaptername><firsteventdate>2013.03.01</firsteventdate></chapter>
+            <chapter><chapterid>116364155595291080470</chapterid><city>San Francisco</city><chaptername>San Francisco</chaptername><firsteventdate>2016.04.19</firsteventdate></chapter>
+            <chapter><chapterid>104304419342230315027</chapterid><city>Seattle</city><chaptername>Seattle</chaptername><firsteventdate>2009.10.19</firsteventdate></chapter>
+            <chapter><chapterid>107299704799906781285</chapterid><city>Mountain View</city><chaptername>Silicon Valley</chaptername><firsteventdate>2008.01.15</firsteventdate></chapter>
+            <chapter><chapterid>113675373333503830488</chapterid><city>Miami</city><chaptername>South Florida</chaptername><firsteventdate>2010.07.16</firsteventdate></chapter>
+            <chapter><chapterid>112660287653273028459</chapterid><city>Twin Falls</city><chaptername>Southern Idaho</chaptername><firsteventdate>2011.06.10</firsteventdate></chapter>
+            <chapter><chapterid>103959793061819610212</chapterid><city>Melbourne</city><chaptername>Space Coast</chaptername><firsteventdate>2013.05.14</firsteventdate></chapter>
+            <chapter><chapterid>106155819601585230201</chapterid><city>St. Louis</city><chaptername>St. Louis</chaptername><firsteventdate>2014.08.19</firsteventdate></chapter>
+            <chapter><chapterid>103948420531198832035</chapterid><city>Tampa</city><chaptername>Sun Coast</chaptername><firsteventdate>2013.02.26</firsteventdate></chapter>
+            <chapter><chapterid>114574123410576761539</chapterid><city>College Station</city><chaptername>TAMU</chaptername><firsteventdate>2013.12.06</firsteventdate></chapter>
+            <chapter><chapterid>108957585266811742746</chapterid><city>Toledo</city><chaptername>Toledo</chaptername><firsteventdate>2014.06.21</firsteventdate></chapter>
+            <chapter><chapterid>116443521706145177173</chapterid><city>Pleasanton</city><chaptername>Tri Valley</chaptername><firsteventdate></firsteventdate></chapter>
+            <chapter><chapterid>105162452149208177718</chapterid><city>Raleigh</city><chaptername>Triangle</chaptername><firsteventdate>2012.09.26</firsteventdate></chapter>
+            <chapter><chapterid>107118157366278614352</chapterid><city>Tucson</city><chaptername>Tucson</chaptername><firsteventdate>2013.08.20</firsteventdate></chapter>
+            <chapter><chapterid>105771089293763738926</chapterid><city>Minneapolis</city><chaptername>Twin Cities</chaptername><firsteventdate>2009.10.06</firsteventdate></chapter>
+            <chapter><chapterid>111917982940065392922</chapterid><city>South Jordan</city><chaptername>Utah</chaptername><firsteventdate>2009.08.04</firsteventdate></chapter>
+            <chapter><chapterid>110693348365607163603</chapterid><city>Visalia</city><chaptername>Visalia</chaptername><firsteventdate>2014.07.11</firsteventdate></chapter>
+            <chapter><chapterid>116047476115208123051</chapterid><city>Washington, DC</city><chaptername>Washington DC</chaptername><firsteventdate>2010.04.06</firsteventdate></chapter>
+            <chapter><chapterid>103440778458076963559</chapterid><city>Wilmington</city><chaptername>Wilmington</chaptername><firsteventdate>2014.07.23</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Uruguay</countryname>
+        <countryid>uy</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>114520966453242230657</chapterid><city>Montevideo</city><chaptername>Montevideo</chaptername><firsteventdate>2010.03.24</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Venezuela</countryname>
+        <countryid>ve</countryid>
+        <number>2</number>
+        <chapters>
+            <chapter><chapterid>107140029265944140254</chapterid><city>Caracas</city><chaptername>Caracas</chaptername><firsteventdate>2016.04.20</firsteventdate></chapter>
+            <chapter><chapterid>101461991627910333413</chapterid><city>Guayana</city><chaptername>Guayana</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Vietnam</countryname>
+        <countryid>vn</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>115379288713741614733</chapterid><city>Hanoi</city><chaptername>Hanoi</chaptername><firsteventdate>2014.02.23</firsteventdate></chapter>
+            <chapter><chapterid>104805438015579887528</chapterid><city>Da Nang</city><chaptername>Mien Trung</chaptername><firsteventdate>2016.03.06</firsteventdate></chapter>
+            <chapter><chapterid>106004400398954649440</chapterid><city>Ho Chi Minh</city><chaptername>Vietnam</chaptername><firsteventdate>2013.10.03</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Yemen</countryname>
+        <countryid>ye</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>115388958160187756455</chapterid><city>Sana'a</city><chaptername>Sana'a</chaptername><firsteventdate>2012.12.12</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Zambia</countryname>
+        <countryid>zm</countryid>
+        <number>1</number>
+        <chapters>
+            <chapter><chapterid>105295357051547814817</chapterid><city>Lusaka</city><chaptername>Lusaka</chaptername><firsteventdate>2012.07.14</firsteventdate></chapter>
+        </chapters>
+    </country>
+    <country>
+        <countryname>Zimbabwe</countryname>
+        <countryid>zw</countryid>
+        <number>3</number>
+        <chapters>
+            <chapter><chapterid>105283391994898909073</chapterid><city>Harare</city><chaptername>Harare</chaptername><firsteventdate>2014.11.26</firsteventdate></chapter>
+            <chapter><chapterid>117128802435887469950</chapterid><city>Harare</city><chaptername>Harare Institute of Technology</chaptername><firsteventdate>2014.09.26</firsteventdate></chapter>
+            <chapter><chapterid>104493430008880454090</chapterid><city>Harare</city><chaptername>University of Zimbabwe</chaptername><firsteventdate></firsteventdate></chapter>
+        </chapters>
+    </country>
+</data>

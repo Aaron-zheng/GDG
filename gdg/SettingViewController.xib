@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Light.ttf">
+            <string>Roboto-Light</string>
+        </array>
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SettingViewController" customModule="GDG" customModuleProvider="target">
+            <connections>
+                <outlet property="gdgImageView" destination="hEq-lh-eD2" id="lXJ-qZ-s67"/>
+                <outlet property="view" destination="iN0-l3-epB" id="sxL-vY-nwq"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dzQ-2b-q4n">
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EmM-ez-stM">
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_gdg_summit" translatesAutoresizingMaskIntoConstraints="NO" id="wqh-t3-nUa">
+                                    <constraints>
+                                        <constraint firstAttribute="width" secondItem="wqh-t3-nUa" secondAttribute="height" multiplier="2048:1180" id="V74-jv-vWe"/>
+                                    </constraints>
+                                </imageView>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_gdg_icon" translatesAutoresizingMaskIntoConstraints="NO" id="hEq-lh-eD2">
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="40" id="OVs-6d-H9o"/>
+                                        <constraint firstAttribute="width" constant="40" id="hFw-Tv-dpB"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GDG" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="18q-jM-YW5">
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="24" id="Njc-DN-jpW"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="20"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="wqh-t3-nUa" secondAttribute="trailing" id="0jK-e7-ZzV"/>
+                                <constraint firstAttribute="trailing" secondItem="18q-jM-YW5" secondAttribute="trailing" constant="16" id="8Rm-dX-k31"/>
+                                <constraint firstItem="wqh-t3-nUa" firstAttribute="top" secondItem="EmM-ez-stM" secondAttribute="top" constant="16" id="IjJ-Hq-IHB"/>
+                                <constraint firstItem="18q-jM-YW5" firstAttribute="leading" secondItem="EmM-ez-stM" secondAttribute="leading" constant="16" id="Yul-eC-x8U"/>
+                                <constraint firstItem="hEq-lh-eD2" firstAttribute="top" secondItem="wqh-t3-nUa" secondAttribute="bottom" constant="-20" id="cOd-nB-Uov"/>
+                                <constraint firstItem="18q-jM-YW5" firstAttribute="top" secondItem="hEq-lh-eD2" secondAttribute="bottom" constant="8" id="iYA-sU-d05"/>
+                                <constraint firstItem="wqh-t3-nUa" firstAttribute="leading" secondItem="EmM-ez-stM" secondAttribute="leading" id="w3G-Xn-TgW"/>
+                                <constraint firstItem="hEq-lh-eD2" firstAttribute="centerX" secondItem="EmM-ez-stM" secondAttribute="centerX" id="xkx-SN-1LB"/>
+                            </constraints>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T6g-pf-CIw" customClass="UIVerticalAlignLabel" customModule="GDG" customModuleProvider="target">
+                            <string key="text">Hi, this App is for displaying all GDGs events all over the world. I hope you will enjoy it. 
+
+Thanks and regards,
+
+Aaron
+GDG Guangzhou (China)
+fucheng.zheng@gmail.com</string>
+                            <fontDescription key="fontDescription" name="Roboto-Light" family="Roboto" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="EmM-ez-stM" secondAttribute="bottom" id="54D-QB-Fqy"/>
+                        <constraint firstItem="EmM-ez-stM" firstAttribute="leading" secondItem="dzQ-2b-q4n" secondAttribute="leading" id="Bnp-x3-NcG"/>
+                        <constraint firstAttribute="trailing" secondItem="T6g-pf-CIw" secondAttribute="trailing" constant="16" id="Oqj-7a-oRE"/>
+                        <constraint firstItem="EmM-ez-stM" firstAttribute="centerY" secondItem="dzQ-2b-q4n" secondAttribute="centerY" id="T9G-8X-ZLb"/>
+                        <constraint firstItem="T6g-pf-CIw" firstAttribute="leading" secondItem="dzQ-2b-q4n" secondAttribute="leading" constant="16" id="VQl-LF-bXl"/>
+                        <constraint firstItem="EmM-ez-stM" firstAttribute="centerX" secondItem="dzQ-2b-q4n" secondAttribute="centerX" id="kLD-6k-4ec"/>
+                        <constraint firstAttribute="bottom" secondItem="T6g-pf-CIw" secondAttribute="bottom" constant="16" id="kae-tg-Bxz"/>
+                        <constraint firstAttribute="trailing" secondItem="EmM-ez-stM" secondAttribute="trailing" id="nUK-Zc-hqV"/>
+                        <constraint firstItem="T6g-pf-CIw" firstAttribute="top" secondItem="18q-jM-YW5" secondAttribute="bottom" constant="8" id="nki-ca-bM3"/>
+                        <constraint firstItem="EmM-ez-stM" firstAttribute="top" secondItem="dzQ-2b-q4n" secondAttribute="top" id="xET-wG-Cno"/>
+                    </constraints>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="dzQ-2b-q4n" secondAttribute="bottom" id="0np-OV-Tln"/>
+                <constraint firstAttribute="trailing" secondItem="dzQ-2b-q4n" secondAttribute="trailing" id="0va-Ks-0Z0"/>
+                <constraint firstItem="dzQ-2b-q4n" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="2fZ-Si-tdE"/>
+                <constraint firstItem="dzQ-2b-q4n" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="jKd-JD-kJW"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="background_gdg_icon" width="200" height="200"/>
+        <image name="background_gdg_summit" width="2048" height="1180"/>
+    </resources>
+</document>
