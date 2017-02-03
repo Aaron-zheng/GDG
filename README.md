@@ -3,10 +3,13 @@
 ![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange.svg)
 ![Xcode 8.2+](https://img.shields.io/badge/Xcode-8.2%2B-blue.svg)
 
+## App store
+
+You can download it from Apple App store. https://itunes.apple.com/app/id1132846979
 
 ## Introduction
 
-** GDG ** is a iOS App for displaying GDG events from all over the world. It provides different events from different area.
+**GDG** is a iOS App for displaying GDG events from all over the world. It provides different events from different area.
 
 ### Features
 
