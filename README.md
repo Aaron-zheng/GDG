@@ -1,7 +1,8 @@
 # GDG - Google Developer Groups
-[![License]](https://raw.githubusercontent.com/Aaron-zheng/GDG/master/LICENSE)
-![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange.svg)
-![Xcode 8.2+](https://img.shields.io/badge/Xcode-8.2%2B-blue.svg)
+
+Swift 3.0+
+Xcode 8.2+
+MIT License
 
 ## Introduction
 
