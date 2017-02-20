@@ -18,7 +18,7 @@ public let greyColor = UIColor(red: 238 / 255.0, green: 238 / 255.0, blue: 238 /
 public let darkColor = UIColor(red: 33/255, green: 33/255, blue: 33/255, alpha: 1)
 
 public let eventText = "Event"
-public let settingText = "Setting"
+public let settingText = "About"
 public let communityText = "Community"
 
 

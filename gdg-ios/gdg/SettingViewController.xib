@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
         <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -27,21 +30,26 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dzQ-2b-q4n">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                     <subviews>
                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EmM-ez-stM">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             <subviews>
                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_gdg_summit" translatesAutoresizingMaskIntoConstraints="NO" id="wqh-t3-nUa">
+                                    <rect key="frame" x="0.0" y="16" width="375" height="216"/>
                                     <constraints>
                                         <constraint firstAttribute="width" secondItem="wqh-t3-nUa" secondAttribute="height" multiplier="2048:1180" id="V74-jv-vWe"/>
                                     </constraints>
                                 </imageView>
                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_gdg_icon" translatesAutoresizingMaskIntoConstraints="NO" id="hEq-lh-eD2">
+                                    <rect key="frame" x="167.5" y="212" width="40" height="40"/>
                                     <constraints>
                                         <constraint firstAttribute="height" constant="40" id="OVs-6d-H9o"/>
                                         <constraint firstAttribute="width" constant="40" id="hFw-Tv-dpB"/>
                                     </constraints>
                                 </imageView>
                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GDG" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="18q-jM-YW5">
+                                    <rect key="frame" x="16" y="260" width="343" height="24"/>
                                     <constraints>
                                         <constraint firstAttribute="height" constant="24" id="Njc-DN-jpW"/>
                                     </constraints>
@@ -63,13 +71,12 @@
                             </constraints>
                         </view>
                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T6g-pf-CIw" customClass="UIVerticalAlignLabel" customModule="GDG" customModuleProvider="target">
-                            <string key="text">Hi, this App is for displaying all GDGs events all over the world. I hope you will enjoy it. 
+                            <rect key="frame" x="16" y="292" width="343" height="359"/>
+                            <string key="text">GDG is iOS App for displaying events from all over the world. 
 
-Thanks and regards,
+We welcome any contributions. Please submit your request in github: https://github.com/Aaron-zheng/GDG
 
-Aaron
-GDG Guangzhou (China)
-fucheng.zheng@gmail.com</string>
+Author: Aaron GDG Guangzhou (China) fucheng.zheng@gmail.com</string>
                             <fontDescription key="fontDescription" name="Roboto-Light" family="Roboto" pointSize="12"/>
                             <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
